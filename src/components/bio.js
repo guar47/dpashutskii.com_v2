@@ -53,12 +53,13 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
-        {` `}
+      <p style={{ display: `flex`, flexDirection: `column` }}>
+        <span>
+          by <strong>{author}</strong>
+          {` `}
+        </span>
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          Follow me on Twitter
         </a>
       </p>
     </div>
