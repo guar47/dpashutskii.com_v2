@@ -1,5 +1,7 @@
 ## 👨‍💻 dpashutskii.com
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8cfd2830-6007-497e-b7d0-bcb89abedfde/deploy-status)](https://app.netlify.com/sites/dpashutskii/deploys)
+
 Repo of my personal blog dpashutskii.com. Repo forked from Gatsby's blog starter: https://github.com/gatsbyjs/gatsby-starter-blog.
 
 ## 🚀 Local setup
@@ -14,6 +16,12 @@ Start the project:
 
 ```
 yarn develop
+```
+
+Environment variables located inside `.env` file
+
+```
+GOOGLE_TRACK_ID=<Your Tracking ID for Google Analytics>
 ```
 
 ## 🧐 What's inside?
