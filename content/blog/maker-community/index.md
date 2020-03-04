@@ -4,10 +4,6 @@ date: "2020-03-04 10:29"
 description: "Overview of the modern makers world"
 ---
 
-Hello everyone!
-
-It's my very first post and I decided to start small.
-
 Right now I'm an expat in Bali, Indonesia, in a small area called Canggu. This village/district of Bali is very famous for the nomad community - creative people who live here for the long term. You can find here all kinds of people. They are programmers/designers/bloggers/writers/coaches and other modern professionals.
 
 But also here a lot of entrepreneurs. Most of them are starting small businesses (1-3 persons) and trying to become successful. Recently I started curios about this more so I decided to create a post.
