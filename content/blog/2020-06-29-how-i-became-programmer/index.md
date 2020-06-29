@@ -7,7 +7,7 @@ featured: images/code-laptop.jpg
 
 Recently I started feeling a bit nostalgic and decided to put my feelings in words. This is my story about becoming a self-taught software engineer but also about finding myself in life.
 
-I know there is a lot of developer stories like this, so it's my turn to write one 😃. I hope my story could inspire or push someone in the right direction. And throw off some prejudices about starting to learn code when you're 30 or without a tech degree.
+I know there are lot of developer's stories like this, so it's my turn to write one 😃. I hope my story could inspire or push someone in the right direction. And throw off some prejudices about starting to learn code when you're 30 or without a tech degree.
 
 In addition at the end of the post I added my advice to the beginners.
 
@@ -53,35 +53,35 @@ Back in a day, they didn't have any marketing and I have no idea how I found it 
 
 I started with PHP courses and joined the community on Slack (nowadays It's the biggest Russian-speaking code learning community). I was a lurker at first but then I started to chat more and more.
 
-Eventually, I attended a few hexlet meetups and even was added to "chosen ones" Slack channel 😃. There were mostly the old core members of the community. All that was so cool for me! The first time I felt like I'm a part of something cool. The hexlet project had a huge impact on my progress as a programmer.
+Eventually, I attended a few hexlet meetups and even was added to "chosen ones" Slack channel 😃. There were mostly the old core members of the community. I was so exsited about all that! The first time I felt like I'm a part of something cool. The hexlet project had a huge impact on my progress as a programmer.
 
 ## Per aspera ad astra
 
 The world of software engineering has been dragging me on more and more but I still wasn't a programmer. I made a pretty big decision to quit my job and start full time learning to code with the goal of finding the junior position.
 
-I still don't know if it was the right decision or not. I ended up as a programmer and everything is great in my life today but what if I'd fail? I don't know what would have happened then. So if you're thinking about doing the same, please consider all pros and cons.
+I still don't know if it was the right decision or not. I ended up as a programmer and everything is great in my life today but what if I'd fail? I don't know what would have happened then. **So if you're thinking about doing the same, please consider all pros and cons.**
 
 Another reason why I deiced to quit my job was that my girlfriend (She is a wife now 😍) got the exchange semester in Portugal for three months. I haven't travel much back then so I decided why not to go with her and spend these 3 months of learning code.
 
 It sounded like a great idea and we went to Lisbon for 90 days. Oh boy, how wrong I was with expectations that I'm gonna be studying. When you for the first time living abroad everything is so exciting. You are having new foreign friends among students and all students like to party and drink so much! 🥳. All that was no good for my learning plan 🤦‍♂️ The days under the hot Portugal sun has been passing very fast but I was slow in achieving my goals.
 
-But even slow learning is still learning. I didn't understand it back then but now I know it well. Always try to compare today's yourself with yesterday's yourself and nobody else. But back then I was a bit frustrated with my progress.
+But even slow learning is still learning. I didn't understand it back then but now I know it well. **Always try to compare today's yourself with yesterday's yourself and nobody else.** But back then I was a bit frustrated with my progress.
 
-Besides, Hexlet is really, really hard course. The basic idea behind it was taken from a very famous book among software engineers - [SIC](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition). With the only difference, the courses use JS/PHP as more modern languages instead of LISP.  But all the concepts are still there: functional programming, immutability, recursions, data structures, abstractions. A lot of great but hard stuff for a newbie. I'm quite happy that I took that course, it affected my programming style in a lot of good ways. But I am not sure if I can recommend it to the new people at coding.
+Besides, Hexlet is really, really hard course. The basic idea behind it was taken from a very famous book among software engineers - [SICP](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition). With the only difference, the courses use JS/PHP as more modern languages instead of LISP.  But all the concepts are still there: functional programming, immutability, recursions, data structures, abstractions. A lot of great but hard stuff for a newbie. I'm quite happy that I took that course, it affected my programming style in a lot of good ways. But I am not sure if I can recommend it to the new people at coding.
 
-Luckily at the same time, they also created a new feature in addition to the courses, called "Projects". I was in the first stream of the students to try it out. And since it was a new feature the creator of courses himself curated it. Basically, it was 3 projects with real-world tasks and in real-world environments. We were writing the tests, setting up a dev environment, used git, etc. It gave me a huge boost in the understanding of how real development works. Because we were solving real-world tasks my understanding started to form even better.
+Luckily at the same time, they also created a new feature in addition to the courses, called "Projects". I was in the first stream of the students to try it out. And since it was a new feature the creator of courses himself curated it. Basically, it was 3 projects with real-world tasks and in real-world environments. We were writing the tests, setting up a dev environment, used git, etc. It gave me a huge boost in the understanding of how real development works.
 
-I still remember how I've been writing the last project sitting in the Lisbon airport where my flight was delayed before going back to Moscow.
+I still remember how I've been writing the last project sitting in the Lisbon airport where my flight was delayed before going back to Moscow. ✈️
 
 ## Real-world
 
-My first idea after learning to code was to become a freelance developer. This year I already started to fall in love with traveling and dreamed about "digital nomad" (I didn't know the term yet) lifestyle.
+My first idea after learning to code was to become a freelance developer. This year I already started to fall in love with traveling and dreamed about ["digital nomad"](https://en.wikipedia.org/wiki/Digital_nomad) (I didn't know the term yet) lifestyle.
 
-But the courses brought me back to Earth and I decided I'm not ready for that. I thought I could only be a freelancer once I was a master. Тow I realize it's the wrong mindset. If you want to go to freelance it's fine to go even when you're junior. But questioning yourself is the part of becoming a programmer. [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) is a real thing and it pervasive among our community.
+But the courses brought me back to Earth and I decided I'm not ready for that. I thought I could only be a freelancer once I was a master. Now I realize it's the wrong mindset. **If you want to go to freelance it's fine to go even when you're junior.** But questioning yourself is the part of becoming a programmer. [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) is a real thing and it pervasive among our community.
 
 So I started to look for an office job. I was part of the Hexlet community and I got a huge help with CV and preparation for the interviews. I like the way how the interviews were going on the coding positions. Most of them were online tests or some coding exercises. I'm a fan of digital asynchronous communication where you have time to think and I hate phone talks where you need to answer within a few seconds.
 
-Once again, the Hexlet community helped me here as well. The founder of the courses knew some guy from the previous job and heard they are looking for a junior developer in their company. I got the interview: live coding, coding exercise for a couple of days, and BOOM!💣
+Once again, the Hexlet community helped me here as well. The founder of the courses knew some guy from the previous job and heard they are looking for a junior developer in their company. I got the interview: live coding, coding exercise for a couple of days, and BOOM! 💣
 
 I landed my first programming job.
 
