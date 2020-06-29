@@ -1,6 +1,6 @@
 ---
 title: "How I became a developer: kinda success story"
-date: "2020-07-29 15:00"
+date: "2020-06-29 15:00"
 description: "My story of how I became a programmer and how I found myself in life"
 featured: images/code-laptop.jpg
 ---
