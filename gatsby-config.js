@@ -88,5 +88,6 @@ module.exports = {
         siteUrl: `https://dpashutskii.com`,
       },
     },
+    `gatsby-plugin-sitemap`,
   ],
 }
