@@ -7,9 +7,9 @@ featured: images/code-laptop.jpg
 
 Recently I started feeling a bit nostalgic and decided to put my feelings in words. This is my story about becoming a self-taught software engineer but also about finding myself in life.
 
-I know there are lot of developer's stories like this, so it's my turn to write one 😃. I hope my story could inspire or push someone in the right direction. And throw off some prejudices about starting to learn code when you're 30 or without a tech degree.
+I know there are a lot of developer's stories like this, so it's my turn to write one 😃. I hope my story could inspire or push someone in the right direction. And throw off some prejudices about starting to learn code when you're 30 or without a tech degree.
 
-In addition at the end of the post I added my advice to the beginners.
+In addition at the end of the post, I added my advice to the beginners.
 
 ## Starting my career
 
@@ -53,7 +53,7 @@ Back in a day, they didn't have any marketing and I have no idea how I found it 
 
 I started with PHP courses and joined the community on Slack (nowadays It's the biggest Russian-speaking code learning community). I was a lurker at first but then I started to chat more and more.
 
-Eventually, I attended a few hexlet meetups and even was added to "chosen ones" Slack channel 😃. There were mostly the old core members of the community. I was so exsited about all that! The first time I felt like I'm a part of something cool. The hexlet project had a huge impact on my progress as a programmer.
+Eventually, I attended a few hexlet meetups and even was added to "chosen ones" Slack channel 😃. There were mostly the old core members of the community. I was so excited about all that! The first time I felt like I'm a part of something cool. The hexlet project had a huge impact on my progress as a programmer.
 
 ## Per aspera ad astra
 
@@ -63,7 +63,7 @@ I still don't know if it was the right decision or not. I ended up as a programm
 
 Another reason why I deiced to quit my job was that my girlfriend (She is a wife now 😍) got the exchange semester in Portugal for three months. I haven't travel much back then so I decided why not to go with her and spend these 3 months of learning code.
 
-It sounded like a great idea and we went to Lisbon for 90 days. Oh boy, how wrong I was with expectations that I'm gonna be studying. When you for the first time living abroad everything is so exciting. You are having new foreign friends among students and all students like to party and drink so much! 🥳. All that was no good for my learning plan 🤦‍♂️ The days under the hot Portugal sun has been passing very fast but I was slow in achieving my goals.
+It sounded like a great idea and we went to Lisbon for 90 days. Oh boy, how wrong I was with expectations that I'm gonna be studying. When you for the first time living abroad everything is so exciting. You are having new foreign friends among students and all students like to party and drink so much! 🥳. All that was no good for my learning plan 🤦‍♂️ The days under the hot Portugal sun have been passing very fast but I was slow in achieving my goals.
 
 But even slow learning is still learning. I didn't understand it back then but now I know it well. **Always try to compare today's yourself with yesterday's yourself and nobody else.** But back then I was a bit frustrated with my progress.
 
@@ -95,7 +95,7 @@ Unfortunately, the management of the company wasn't great and we had a lot of pr
 
 ## Beginner's note
 
-I'd like to give some advice for people who only starting their career and journey. And also to think about what I would have done differently.
+I'd like to give some advice to people who only starting their career and journey. And also to think about what I would have done differently.
 
 - Don't research too much. It's good to do some research on the paths of the career or where you need to start with your current knowledge. But don't put too much pressure on yourself. When you over-research you will start to listen to everyone and compare yourself to others. "This language is the best", "I'm working in Google", "I learned how to code for 2 months and I'm making a bunch load of money". All this has to be ignored. Every situation is different, every person has their own path. Take your time and comfortable pace.
 - The best way to start thinking and learning to code is to focus on basics. Languages and technologies are great but they are constantly changing whereas the basics are not. Try to learn the core basics at first and move to the specifics after.
