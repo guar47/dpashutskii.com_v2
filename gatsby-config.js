@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `👨‍💻 Dmitrii Pashutskii blog`,
     author: `Dmitrii Pashutskii`,
-    description: `Personal blog about everything that inspire me.`,
+    description: `Dmitrii Pashutskii is a full stack software engineer specializing in Ruby, Javascript, Rails and ReactJS`,
     siteUrl: `https://dpashutskii.com`,
     social: {
       twitter: `guar47`,
@@ -88,5 +88,6 @@ module.exports = {
         siteUrl: `https://dpashutskii.com`,
       },
     },
+    `gatsby-plugin-sitemap`,
   ],
 }
