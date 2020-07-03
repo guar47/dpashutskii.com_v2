@@ -2,7 +2,7 @@ require("dotenv").config({ path: `.env` })
 
 module.exports = {
   siteMetadata: {
-    title: `👨‍💻 Dmitrii Pashutskii blog`,
+    title: `👨‍💻 Dmitrii Pashutskii`,
     author: `Dmitrii Pashutskii`,
     description: `Dmitrii Pashutskii is a full stack software engineer specializing in Ruby, Javascript, Rails and ReactJS`,
     siteUrl: `https://dpashutskii.com`,
@@ -89,5 +89,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
+    `gatsby-plugin-postcss`,
   ],
 }
