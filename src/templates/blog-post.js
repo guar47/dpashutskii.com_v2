@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
+import Social from "../components/social"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
@@ -11,7 +11,9 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
-    const image = post.frontmatter.image ? post.frontmatter.image.childImageSharp.resize : null
+    const image = post.frontmatter.image
+      ? post.frontmatter.image.childImageSharp.resize
+      : null
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -22,12 +24,7 @@ class BlogPostTemplate extends React.Component {
         />
         <article>
           <header>
-            <h1
-              style={{
-                marginTop: rhythm(1),
-                marginBottom: 0,
-              }}
-            >
+            <h1 className="my-0 font-black text-4xl">
               {post.frontmatter.title}
             </h1>
             <p
@@ -41,13 +38,9 @@ class BlogPostTemplate extends React.Component {
             </p>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
-          <hr
-            style={{
-              marginBottom: rhythm(1),
-            }}
-          />
-          <footer>
-            <Bio />
+          <hr className="h-px" />
+          <footer className="mb-10 mt-5">
+            <Social />
           </footer>
         </article>
 

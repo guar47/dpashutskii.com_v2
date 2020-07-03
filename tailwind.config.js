@@ -5,6 +5,10 @@ module.exports = {
       colors: {
         blue: "#034694",
       },
+      fontFamily: {
+        headers: ["Montserrat", "sans-serif"],
+        text: ["Merriweather", "Georgia", "serif"],
+      },
     },
   },
   variants: {},
