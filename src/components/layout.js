@@ -20,12 +20,7 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <h2
-          style={{
-            fontFamily: `Montserrat, sans-serif`,
-          }}
-          className="mb-3 mt-0 text-4xl font-black"
-        >
+        <h2 className="mb-3 mt-0 text-4xl font-black">
           <Link className="no-underline shadow-none text-2xl" to={`/`}>
             {title}
           </Link>
@@ -34,25 +29,23 @@ class Layout extends React.Component {
     }
 
     return (
-      <div
-        className="mx-auto"
-        style={{
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
-        <header className="mb-10">{header}</header>
-        <main>{children}</main>
-        <footer
+      <React.Fragment>
+        <div
+          className="mx-auto"
           style={{
-            marginTop: `5rem`,
+            maxWidth: rhythm(24),
+            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
           }}
         >
-          <hr />© {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
-      </div>
+          <header className="pb-5">{header}</header>
+          <main>{children}</main>
+          <footer className="mt-20">
+            © {new Date().getFullYear()}, Built with
+            {` `}
+            <a href="https://www.gatsbyjs.org">Gatsby</a>
+          </footer>
+        </div>
+      </React.Fragment>
     )
   }
 }
