@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  @apply text-4xl font-headers mt-12 mb-6;
+}
+
+h2 {
+  @apply text-3xl font-headers mt-12 mb-6 font-bold;
+}
+
+h3 {
+  @apply text-lg font-headers mt-12 mb-6;
+}
+
+a {
+  @apply text-blue;
+}
+
+b {
+  @apply font-black;
+}
+
+p {
+  @apply leading-7 mb-6;
+}
+
+ul {
+  @apply leading-loose list-disc
+}

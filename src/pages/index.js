@@ -14,19 +14,20 @@ class BlogIndex extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="All posts" />
+        <SEO title="Main page" />
         <Bio />
+        <h2 className="font-bold text-xl">Latest blog posts:</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
-            <article key={node.fields.slug}>
+            <article className="mb-16" key={node.fields.slug}>
               <header>
                 <h3
                   style={{
                     marginBottom: rhythm(1 / 4),
                   }}
                 >
-                  <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                  <Link className="shadow-none text-2xl font-bold font-text" to={node.fields.slug}>
                     {title}
                   </Link>
                 </h3>
