@@ -2,6 +2,7 @@
 title: Goals for 2018 - summary
 date: "2019-01-05 12:00"
 description: "My final reflection on the goals for 2018 year"
+slug: goals-for-2018-summary
 ---
 
 The year is over and it's perfect time to reflect on goals and set the new ones.
@@ -116,4 +117,4 @@ I love to read very much, but next year I have an additional challenge here caus
 
 So that's it for my summary. I totally enjoyed this year and I'm very satisfied with my results.
 
-Really appreciate that you’ve read this.  
+Really appreciate that you’ve read this.
