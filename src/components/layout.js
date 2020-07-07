@@ -20,11 +20,11 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <h2 className="mb-3 mt-0 text-4xl font-black">
-          <Link className="no-underline shadow-none text-2xl" to={`/`}>
+        <div className="mb-3 mt-0 text-4xl font-black">
+          <Link className="no-underline shadow-none text-2xl font-headers" to={`/`}>
             {title}
           </Link>
-        </h2>
+        </div>
       )
     }
 
