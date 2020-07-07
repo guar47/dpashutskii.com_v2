@@ -9,9 +9,6 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import Social from "./social"
-import TwitterIcon from "../../content/assets/icons/twitter-icon.svg"
-import LinkedinIcon from "../../content/assets/icons/linkedin-icon.svg"
-import GithubIcon from "../../content/assets/icons/github-icon.svg"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -39,7 +36,7 @@ const Bio = () => {
     <div className="mb-20">
       <div className="flex items-center mb-2">
         <span className="text-2xl font-headers font-black">
-          Hi <span role="img">✌️</span> I'm Dmitrii
+          Hi <span role="img" aria-label="Victory Hand">✌️</span> I'm Dmitrii
         </span>
         <Image
           fixed={data.avatar.childImageSharp.fixed}
