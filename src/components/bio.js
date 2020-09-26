@@ -37,7 +37,11 @@ const Bio = () => {
     <div className="mb-20">
       <div className="flex items-center mb-2">
         <span className="text-2xl font-headers font-black">
-          Hi <span role="img" aria-label="Victory hand">✌️</span> I'm Dmitrii
+          Hi{" "}
+          <span role="img" aria-label="Victory hand">
+            ✌️
+          </span>{" "}
+          I'm Dmitrii
         </span>
         <Image
           fixed={data.avatar.childImageSharp.fixed}
@@ -56,6 +60,12 @@ const Bio = () => {
       <div className="mb-2">
         In my spare time, I love hacking my own projects, write and tweet about
         them.
+      </div>
+      <div className="mb-2 mt-5">
+        Currentely working on:{" "}
+        <a href="https://getlearningstory.com" target="_blank">
+          Learning Story
+        </a>
       </div>
       <div className="mt-10">
         <Social />
