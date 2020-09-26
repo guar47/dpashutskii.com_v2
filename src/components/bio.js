@@ -9,6 +9,7 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import Social from "./social"
+import SignUpForm from "./sign-up-form"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -36,7 +37,7 @@ const Bio = () => {
     <div className="mb-20">
       <div className="flex items-center mb-2">
         <span className="text-2xl font-headers font-black">
-          Hi <span role="img" aria-label="Victory Hand">✌️</span> I'm Dmitrii
+          Hi <span role="img" aria-label="Victory hand">✌️</span> I'm Dmitrii
         </span>
         <Image
           fixed={data.avatar.childImageSharp.fixed}
@@ -46,7 +47,7 @@ const Bio = () => {
         />
       </div>
       <div className="mb-2">
-        I am a full-stack web developer, traveler, and maker.
+        I am a full-stack software engineer, traveler, and maker.
       </div>
       <div className="mb-2">
         I mostly work with <b>Ruby</b> and <b>Javascript</b> languages. My
@@ -58,6 +59,7 @@ const Bio = () => {
       </div>
       <div className="mt-10">
         <Social />
+        <SignUpForm />
       </div>
     </div>
   )
