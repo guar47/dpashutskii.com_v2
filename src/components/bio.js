@@ -9,7 +9,6 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import Social from "./social"
-import SignUpForm from "./sign-up-form"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -69,7 +68,6 @@ const Bio = () => {
       </div>
       <div className="mt-10">
         <Social />
-        <SignUpForm />
       </div>
     </div>
   )
