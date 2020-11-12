@@ -84,10 +84,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-twitter`,
-    `gatsby-plugin-styled-components`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
     "gatsby-plugin-simple-analytics",
     {
       resolve: `gatsby-plugin-canonical-urls`,
@@ -103,6 +99,43 @@ module.exports = {
         rule: {
           include: /assets/, // See below to configure properly
         },
+      },
+    },
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Montserrat`,
+            variants: [
+              "100",
+              "200",
+              "300",
+              "400",
+              "500",
+              "600",
+              "700",
+              "800",
+              "900",
+            ],
+            subsets: [`latin-ext`, "cyrillic"],
+          },
+          {
+            family: `Merriweather`,
+            variants: [
+              "100",
+              "200",
+              "300",
+              "400",
+              "500",
+              "600",
+              "700",
+              "800",
+              "900",
+            ],
+            subsets: [`latin-ext`, "cyrillic"],
+          },
+        ],
       },
     },
   ],
