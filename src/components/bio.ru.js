@@ -3,9 +3,9 @@ import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import Social from "./social"
 
-const Bio = () => {
+const BioRu = () => {
   const data = useStaticQuery(graphql`
-    query BioQuery {
+    query BioRuQuery {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
         childImageSharp {
           fixed(width: 150, height: 150) {
@@ -35,33 +35,30 @@ const Bio = () => {
           imgStyle={{ borderRadius: `25%` }}
         />
         <span className="text-2xl font-black font-headers">
-          Hi{" "}
+          Привет{" "}
           <span role="img" aria-label="Victory hand">
             ✌️
           </span>{" "}
-          I'm Dmitrii
         </span>
       </div>
-      <div className="my-2">
-        I am a full-stack software engineer, traveler, and maker 🔥
+      <div className="mb-2">
+        Меня зовут Дима и я full-stack разработчик, путешественник и онлайн
+        предприниматель 🔥
       </div>
-      <div className="my-2">
-        I mostly work with <b>Ruby</b> and <b>Javascript</b> languages. My
-        favorite web frameworks are <b>Ruby on Rails</b> and <b>React.js</b>.
-        Right now I'm also learning <b>Python</b>.
-      </div>
-      <div className="my-2">
-        In 2020-2021 I am making{" "}
-        <a href="https://12xstartup.com/" target="_blank" rel="noreferrer">
-          12 startups in 12 months
-        </a>{" "}
-        and share my experience on Twitter and this Blog.
-      </div>
-      <div className="my-2">
-        My project #1:{" "}
-        <a href="https://getlearningstory.com" target="_blank" rel="noreferrer">
-          Learning Story
+      <div className="mt-5 mb-2">
+        Я веду телеграм канал{" "}
+        <a href="https://t.me/another_way_out" target="_blank" rel="noreferrer">
+          Another way out
         </a>
+        .
+      </div>
+      <div className="mt-5 mb-2">
+        Это канал о поиске себя: путь к иммиграции, попытки в мире
+        онлайн-бизнеса, путешествия и digital nomad лайфстайл.
+      </div>
+      <div className="mb-2">
+        В этом блоге я републикую часть постов и иногда использую его для более
+        длинных статей.
       </div>
       <div className="mt-10">
         <Social />
@@ -70,4 +67,4 @@ const Bio = () => {
   )
 }
 
-export default Bio
+export default BioRu
