@@ -1,5 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
+import RussiaFlagIcon from "../../content/assets/icons/russia-icon.svg"
+import USFlagIcon from "../../content/assets/icons/us-icon.svg"
 
 import { rhythm } from "../utils/typography"
 
@@ -9,19 +11,47 @@ class Layout extends React.Component {
     const ruPath = `${__PATH_PREFIX__}/ru`
     const rootPath = `${__PATH_PREFIX__}/`
     let header
+    console.log(this.props)
 
-    if (location.pathname === rootPath || location.pathname === ruPath) {
+    if (location.pathname === rootPath) {
       header = (
-        <h1 className="mt-0 mb-3 text-4xl font-black">
-          <Link className="no-underline shadow-none" to={`/`}>
-            {title}
-          </Link>
-        </h1>
+        <div className="flex items-center justify-between">
+          <h1 className="block my-0 text-4xl font-black">
+            <Link className="no-underline shadow-none" to={`/`}>
+              {title}
+            </Link>
+          </h1>
+          <a
+            href={`${__PATH_PREFIX__}/ru`}
+            className="flex items-center justify-center no-underline shadow-none"
+          >
+            <RussiaFlagIcon width={30} height={30} />
+          </a>
+        </div>
+      )
+    } else if (location.pathname === ruPath) {
+      header = (
+        <div className="flex items-center justify-between">
+          <h1 className="block my-0 text-4xl font-black">
+            <Link className="no-underline shadow-none" to={`/ru`}>
+              {title}
+            </Link>
+          </h1>
+          <a
+            href={`${__PATH_PREFIX__}/`}
+            className="flex items-center justify-center no-underline shadow-none"
+          >
+            <USFlagIcon width={30} height={30} />
+          </a>
+        </div>
       )
     } else {
       header = (
         <div className="mt-0 mb-3 text-4xl font-black">
-          <Link className="text-2xl no-underline shadow-none font-headers" to={`/`}>
+          <Link
+            className="text-2xl no-underline shadow-none font-headers"
+            to={this.props.lang == "en" ? `/` : `/ru`}
+          >
             {title}
           </Link>
         </div>
