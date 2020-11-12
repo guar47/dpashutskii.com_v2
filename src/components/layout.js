@@ -11,7 +11,6 @@ class Layout extends React.Component {
     const ruPath = `${__PATH_PREFIX__}/ru`
     const rootPath = `${__PATH_PREFIX__}/`
     let header
-    console.log(this.props)
 
     if (location.pathname === rootPath) {
       header = (
@@ -50,7 +49,7 @@ class Layout extends React.Component {
         <div className="mt-0 mb-3 text-4xl font-black">
           <Link
             className="text-2xl no-underline shadow-none font-headers"
-            to={this.props.lang == "en" ? `/` : `/ru`}
+            to={this.props.lang === "en" ? `/` : `/ru`}
           >
             {title}
           </Link>

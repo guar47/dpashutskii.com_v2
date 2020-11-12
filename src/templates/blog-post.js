@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
 import Social from "../components/social"
 import Layout from "../components/layout"
@@ -11,12 +11,10 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
-    const { previous, next, langKey } = this.props.pageContext
+    const { langKey } = this.props.pageContext
     const image = post.frontmatter.image
       ? post.frontmatter.image.childImageSharp.resize
       : null
-
-    console.log(this.props)
 
     return (
       <Layout location={this.props.location} title={siteTitle} lang={langKey}>
@@ -44,7 +42,7 @@ class BlogPostTemplate extends React.Component {
           <hr className="h-px" />
           <footer className="mt-5 mb-10">
             <Social />
-            {langKey == "en" && <SignUpForm />}
+            {langKey === "en" && <SignUpForm />}
           </footer>
         </article>
       </Layout>

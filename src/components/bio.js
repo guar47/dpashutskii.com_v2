@@ -43,7 +43,10 @@ const Bio = () => {
         </span>
       </div>
       <div className="my-2">
-        I am a full-stack software engineer, traveler, and maker 🔥
+        I am a full-stack software engineer, traveler, and maker{" "}
+        <span role="img" aria-label="Fire">
+          🔥
+        </span>
       </div>
       <div className="my-2">
         I mostly work with <b>Ruby</b> and <b>Javascript</b> languages. My
