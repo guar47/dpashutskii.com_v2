@@ -16,7 +16,7 @@ class BlogIndex extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Main page" />
         <Bio />
-        <h2 className="font-bold text-xl">Latest blog posts:</h2>
+        <h2 className="text-xl font-bold">Latest blog posts:</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
@@ -27,7 +27,10 @@ class BlogIndex extends React.Component {
                     marginBottom: rhythm(1 / 4),
                   }}
                 >
-                  <Link className="shadow-none text-2xl font-bold font-text" to={`${node.fields.slug}/`}>
+                  <Link
+                    className="text-2xl font-bold shadow-none font-text"
+                    to={`${node.fields.slug}`}
+                  >
                     {title}
                   </Link>
                 </h3>
@@ -57,7 +60,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { fields: { langKey: { eq: "en" } } }
+    ) {
       edges {
         node {
           excerpt
