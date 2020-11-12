@@ -6,13 +6,13 @@ import { rhythm } from "../utils/typography"
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
-    const blogPath = `${__PATH_PREFIX__}/blog`
+    const ruPath = `${__PATH_PREFIX__}/ru`
     const rootPath = `${__PATH_PREFIX__}/`
     let header
 
-    if (location.pathname === rootPath || location.pathname === blogPath) {
+    if (location.pathname === rootPath || location.pathname === ruPath) {
       header = (
-        <h1 className="mb-3 mt-0 text-4xl font-black">
+        <h1 className="mt-0 mb-3 text-4xl font-black">
           <Link className="no-underline shadow-none" to={`/`}>
             {title}
           </Link>
@@ -20,8 +20,8 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <div className="mb-3 mt-0 text-4xl font-black">
-          <Link className="no-underline shadow-none text-2xl font-headers" to={`/`}>
+        <div className="mt-0 mb-3 text-4xl font-black">
+          <Link className="text-2xl no-underline shadow-none font-headers" to={`/`}>
             {title}
           </Link>
         </div>

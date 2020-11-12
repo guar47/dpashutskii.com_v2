@@ -6,7 +6,7 @@ import GithubIcon from "../../content/assets/icons/github-icon.svg"
 const Social = () => {
   return (
     <div className="flex justify-center">
-      <div className="flex max-w-xs w-2/4 sm:w-2/5 justify-between">
+      <div className="flex justify-between w-2/4 max-w-xs sm:w-2/5">
         <a
           href={`https://twitter.com/guar47`}
           target="_blank"
@@ -14,7 +14,7 @@ const Social = () => {
           className="no-underline shadow-none"
         >
           <TwitterIcon
-            className="fill-current text-gray-800 hover:text-blue"
+            className="text-gray-800 fill-current hover:text-blue"
             width={50}
             height={50}
           />
@@ -26,7 +26,7 @@ const Social = () => {
           className="no-underline shadow-none"
         >
           <LinkedinIcon
-            className="fill-current text-gray-800 hover:text-blue"
+            className="text-gray-800 fill-current hover:text-blue"
             width={50}
             height={50}
           />
@@ -38,7 +38,7 @@ const Social = () => {
           className="no-underline shadow-none"
         >
           <GithubIcon
-            className="fill-current text-gray-800 hover:text-blue"
+            className="text-gray-800 fill-current hover:text-blue"
             width={50}
             height={50}
           />
