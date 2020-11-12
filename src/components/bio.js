@@ -15,7 +15,7 @@ const Bio = () => {
     query BioQuery {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50) {
+          fixed(width: 150, height: 150) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -35,34 +35,38 @@ const Bio = () => {
   return (
     <div className="mb-20">
       <div className="flex items-center mb-2">
-        <span className="text-2xl font-headers font-black">
+        <Image
+          fixed={data.avatar.childImageSharp.fixed}
+          alt={author}
+          className="mr-2 rounded-md"
+          imgStyle={{ borderRadius: `25%` }}
+        />
+        <span className="text-2xl font-black font-headers">
           Hi{" "}
           <span role="img" aria-label="Victory hand">
             ✌️
           </span>{" "}
           I'm Dmitrii
         </span>
-        <Image
-          fixed={data.avatar.childImageSharp.fixed}
-          alt={author}
-          className="ml-2 rounded-full"
-          imgStyle={{ borderRadius: `50%` }}
-        />
       </div>
       <div className="mb-2">
-        I am a full-stack software engineer, traveler, and maker.
+        I am a full-stack software engineer, traveler, and maker 🔥
       </div>
       <div className="mb-2">
         I mostly work with <b>Ruby</b> and <b>Javascript</b> languages. My
         favorite web frameworks are <b>Ruby on Rails</b> and <b>React.js</b>.
+        Right now I'm also learning <b>Python</b>.
+      </div>
+      <div className="mt-5 mb-2">
+        In 2020-2021 I am making{" "}
+        <a href="https://12xstartup.com/" target="_blank" rel="noreferrer">
+          12 startups in 12 months
+        </a>{" "}
+        and share my experience on Twitter and this Blog.
       </div>
       <div className="mb-2">
-        In my spare time, I love hacking my own projects, write and tweet about
-        them.
-      </div>
-      <div className="mb-2 mt-5">
-        Currentely working on:{" "}
-        <a href="https://getlearningstory.com" target="_blank">
+        My project #1:{" "}
+        <a href="https://getlearningstory.com" target="_blank" rel="noreferrer">
           Learning Story
         </a>
       </div>
