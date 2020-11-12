@@ -2,47 +2,63 @@ import React from "react"
 import TwitterIcon from "../../content/assets/icons/twitter-icon.svg"
 import LinkedinIcon from "../../content/assets/icons/linkedin-icon.svg"
 import GithubIcon from "../../content/assets/icons/github-icon.svg"
+import CoffeeIcon from "../../content/assets/icons/buymeacoffee-icon.svg"
 
 const Social = () => {
   return (
-    <div className="flex justify-center">
-      <div className="flex max-w-xs w-2/4 sm:w-2/5 justify-between">
-        <a
-          href={`https://twitter.com/guar47`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="no-underline shadow-none"
-        >
-          <TwitterIcon
-            className="fill-current text-gray-800 hover:text-blue"
-            width={50}
-            height={50}
-          />
-        </a>
-        <a
-          href={`https://www.linkedin.com/in/dmitrii-pashutskii/`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="no-underline shadow-none"
-        >
-          <LinkedinIcon
-            className="fill-current text-gray-800 hover:text-blue"
-            width={50}
-            height={50}
-          />
-        </a>
-        <a
-          href={`https://github.com/guar47`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="no-underline shadow-none"
-        >
-          <GithubIcon
-            className="fill-current text-gray-800 hover:text-blue"
-            width={50}
-            height={50}
-          />
-        </a>
+    <div>
+      <div className="mb-4 font-bold text-center">Get in touch:</div>
+      <div className="flex justify-center">
+        <div className="flex justify-between w-3/4 max-w-xs sm:w-2/5">
+          <a
+            href={`https://twitter.com/guar47`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="no-underline shadow-none"
+          >
+            <TwitterIcon
+              className="text-gray-800 fill-current hover:text-blue"
+              width={50}
+              height={50}
+            />
+          </a>
+          <a
+            href={`https://www.linkedin.com/in/dmitrii-pashutskii/`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="no-underline shadow-none"
+          >
+            <LinkedinIcon
+              className="text-gray-800 fill-current hover:text-blue"
+              width={50}
+              height={50}
+            />
+          </a>
+          <a
+            href={`https://github.com/guar47`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="no-underline shadow-none"
+          >
+            <GithubIcon
+              className="text-gray-800 fill-current hover:text-blue"
+              width={50}
+              height={50}
+            />
+          </a>
+          <a
+            href={`https://www.buymeacoffee.com/dpashutskii`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="no-underline shadow-none"
+          >
+            <CoffeeIcon
+              className="text-gray-800 fill-current hover:text-blue"
+              width={50}
+              height={50}
+            />
+          </a>
+        </div>
       </div>
     </div>
   )
