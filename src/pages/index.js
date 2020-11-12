@@ -8,12 +8,12 @@ import { rhythm } from "../utils/typography"
 
 class BlogIndex extends React.Component {
   render() {
-    const { data } = this.props
+    const { data, pageContext } = this.props
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location} title={siteTitle} lang={pageContext.langKey}>
         <SEO title="Main page" />
         <Bio />
         <h2 className="text-xl font-bold">Latest blog posts:</h2>
