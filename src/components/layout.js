@@ -8,7 +8,7 @@ import { rhythm } from "../utils/typography"
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
-    const ruPath = `${__PATH_PREFIX__}/ru`
+    const ruPath = `${__PATH_PREFIX__}/ru/`
     const rootPath = `${__PATH_PREFIX__}/`
     let header
 
@@ -21,7 +21,7 @@ class Layout extends React.Component {
             </Link>
           </h1>
           <a
-            href={`${__PATH_PREFIX__}/ru`}
+            href={`${__PATH_PREFIX__}/ru/`}
             className="flex items-center justify-center no-underline shadow-none"
           >
             <RussiaFlagIcon width={30} height={30} />
@@ -32,7 +32,7 @@ class Layout extends React.Component {
       header = (
         <div className="flex items-center justify-between">
           <h1 className="block my-0 text-4xl font-black">
-            <Link className="no-underline shadow-none" to={`/ru`}>
+            <Link className="no-underline shadow-none" to={`/ru/`}>
               {title}
             </Link>
           </h1>
@@ -49,7 +49,7 @@ class Layout extends React.Component {
         <div className="mt-0 mb-3 text-4xl font-black">
           <Link
             className="text-2xl no-underline shadow-none font-headers"
-            to={this.props.lang === "en" ? `/` : `/ru`}
+            to={this.props.lang === "en" ? `/` : `/ru/`}
           >
             {title}
           </Link>
