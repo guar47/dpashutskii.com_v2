@@ -6,11 +6,15 @@ import SEO from "../components/seo"
 
 class Confirm extends React.Component {
   render() {
-    const { data } = this.props
+    const { data, pageContext } = this.props
     const siteTitle = data.site.siteMetadata.title
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout
+        location={this.props.location}
+        title={siteTitle}
+        lang={pageContext.langKey}
+      >
         <SEO title="Confirm subscription" />
         <h1>The last step...</h1>
         <p>

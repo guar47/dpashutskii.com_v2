@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
+import BioRu from "../components/bio.ru"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
@@ -15,8 +15,8 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle} lang={pageContext.langKey}>
         <SEO title="Main page" />
-        <Bio />
-        <h2 className="text-xl font-bold">Latest blog posts:</h2>
+        <BioRu />
+        <h2 className="text-xl font-bold">Последние посты:</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
@@ -62,7 +62,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { fields: { langKey: { eq: "en" } } }
+      filter: { fields: { langKey: { eq: "ru" } } }
     ) {
       edges {
         node {

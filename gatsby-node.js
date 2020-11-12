@@ -16,6 +16,7 @@ exports.createPages = async ({ graphql, actions }) => {
             node {
               fields {
                 slug
+                langKey
               }
               frontmatter {
                 title
@@ -43,6 +44,7 @@ exports.createPages = async ({ graphql, actions }) => {
       component: blogPost,
       context: {
         slug: post.node.fields.slug,
+        langKey: post.node.fields.langKey,
         previous,
         next,
       },
