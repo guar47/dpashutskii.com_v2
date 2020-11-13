@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, Link, graphql } from "gatsby"
 import Image from "gatsby-image"
 import Social from "./social"
 
@@ -51,9 +51,14 @@ const BioRu = () => {
       <div className="mt-5 mb-2">
         Я веду телеграм канал{" "}
         <a href="https://t.me/another_way_out" target="_blank" rel="noreferrer">
-          Another way out
-        </a>
-        .
+          Another way out.
+        </a>{" "}
+        Навигацию и содержание канала можно найти{" "}
+        <Link
+          to={`/ru/navigacia-po-kanalu/`}
+        >
+          тут.
+        </Link>
       </div>
       <div className="mb-2">
         Это канал о поиске себя: путь к иммиграции, попытки в мире
