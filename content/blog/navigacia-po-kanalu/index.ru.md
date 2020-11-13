@@ -53,14 +53,16 @@ slug: navigacia-po-kanalu
 
 ### **Бали:**
 
-#### 2019
+#### **2019:**
+
 - [Изменение планов в сторону Бали](https://t.me/another_way_out/40) - 29.11.2019
 - [Первая неделя на Бали](https://t.me/another_way_out/42) - 06.10.2019
 - [Сломал ногу на серфинге](https://t.me/another_way_out/47) - 22.10.2019
 - [Район Чангу](https://t.me/another_way_out/53) - 05.11.2019
 - [Район Убуд](https://t.me/another_way_out/54) - 18.11.2019
 
-#### 2020
+#### **2020:**
+
 - [Новый год на Бали](https://t.me/another_way_out/59) - 09.01.2020
 - [Дайвинг](https://t.me/another_way_out/60)
 - [Виза раны](https://t.me/another_way_out/57)
@@ -76,7 +78,8 @@ slug: navigacia-po-kanalu
 
 ### **Европа:**
 
-#### 2019
+#### ***2019:**
+
 - [Планы по трипу по Европе](https://t.me/another_way_out/13)
 - [Освенцим](https://t.me/another_way_out/16)
 - [Способы перемещения по Европе](https://t.me/another_way_out/17)
