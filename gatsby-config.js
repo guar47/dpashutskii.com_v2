@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Dmitrii Pashutskii`,
     author: `Dmitrii Pashutskii`,
-    description: `Dmitrii Pashutskii is a full stack software engineer specializing in Ruby, Javascript, Rails and ReactJS`,
+    description: `Dmitrii Pashutskii is a full stack software engineer and maker specializing in Ruby, Javascript, Rails and ReactJS`,
     siteUrl: `https://dpashutskii.com`,
     social: {
       twitter: `guar47`,
@@ -138,5 +138,6 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-netlify`,
   ],
 }
