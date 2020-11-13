@@ -5,8 +5,8 @@ exports.createPages = async ({ graphql, actions }) => {
   const { createPage, createRedirect } = actions
 
   createRedirect({
-    fromPath: "https://ru.dpashutskii/",
-    toPath: "https://dpashutskii/ru/",
+    fromPath: "https://ru.dpashutskii.com/*",
+    toPath: "https://dpashutskii.com/ru/",
     isPermanent: true,
     Language: "ru",
   })
