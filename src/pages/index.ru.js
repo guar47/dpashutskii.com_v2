@@ -13,8 +13,16 @@ class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges
 
     return (
-      <Layout location={this.props.location} title={siteTitle} lang={pageContext.langKey}>
-        <SEO title="Main page" />
+      <Layout
+        location={this.props.location}
+        title={siteTitle}
+        lang={pageContext.langKey}
+      >
+        <SEO
+          title="Главная"
+          lang="ru"
+          description="Личный блог Димы Пашутского, full-stack разработчика, пуешественника и онлайн предпринимателя"
+        />
         <BioRu />
         <h2 className="text-xl font-bold">Последние посты:</h2>
         {posts.map(({ node }) => {
