@@ -11,9 +11,10 @@ slug: navigacia-po-kanalu
 
 ## Большие посты:
 
-- [Моя история](https://telegra.ph/Moj-put-k-puteshestviyam-i-immigracii-05-15)
+- [Моя история](https://dpashutskii.com/ru//moj-put-k-puteshestviyam-i-immigracii/)
 - [Английский для digital мира](https://dpashutskii.com/ru/angliyskiy-dlya-digital-mira/)
-- [Мой онлайн универ](https://dpashutskii.com/ru/kak-ia-postupil-v-ievropieiskii-univiersitiet-sidia-doma)
+- [Мой онлайн универ](https://dpashutskii.com/ru/kak-ia-postupil-v-ievropieiskii-univiersitiet-sidia-doma/)
+- [Гайд по Upwork](https://dpashutskii.com/ru/upwork-guide/)
 
 
 ## Иммиграция:
@@ -23,7 +24,7 @@ slug: navigacia-po-kanalu
 
 ## Номадинг и фриланс:
 
-- [Upwork guide](https://telegra.ph/Gajd-po-Upwork-10-28), посты в канале: [часть 1](https://t.me/another_way_out/43), [часть 2](https://t.me/another_way_out/44), [часть 3](https://t.me/another_way_out/45), [часть 4](https://t.me/another_way_out/48), [часть 5](https://t.me/another_way_out/50)
+- Посты в канале про Upwork: [часть 1](https://t.me/another_way_out/43), [часть 2](https://t.me/another_way_out/44), [часть 3](https://t.me/another_way_out/45), [часть 4](https://t.me/another_way_out/48), [часть 5](https://t.me/another_way_out/50)
 - [Nomadlist](https://t.me/another_way_out/41)
 - [Регистрация ИП](https://t.me/another_way_out/58)
 - [Makers communities](https://t.me/another_way_out/70)
@@ -85,7 +86,3 @@ slug: navigacia-po-kanalu
 - [Роттердам](https://t.me/another_way_out/33)
 - [Берлин](https://t.me/another_way_out/38)
 - [Мюнхен](https://t.me/another_way_out/39)
-
-### Учеба:
-
--
