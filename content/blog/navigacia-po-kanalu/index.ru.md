@@ -1,19 +1,23 @@
 ---
-title: Навигация по каналу Another Way Out
+title: Навигация по телеграм каналу Another Way Out
 date: "2019-10-20 12:00"
-description: "Навигация по телеграм каналу"
+description: "Пост с навигацией по телеграм каналу со ссылками на посты"
 slug: navigacia-po-kanalu
 ---
 
-# Навигация по телеграм каналу [Another Way Out](https://t.me/another_way_out)
+**Телеграм канал [Another Way Out](https:t.me/another_way_out)**
 
-Обновляемый пост, последнее обновление **13.11.2020.**
+***Обновляемый пост, последнее обновление **13.11.2020.*****
 
-[Моя история.](https://telegra.ph/Moj-put-k-puteshestviyam-i-immigracii-05-15)
+## Большие посты:
+
+- [Моя история](https://telegra.ph/Moj-put-k-puteshestviyam-i-immigracii-05-15)
+- [Английский для digital мира](https://dpashutskii.com/ru/angliyskiy-dlya-digital-mira/)
+- [Мой онлайн универ](https://dpashutskii.com/ru/kak-ia-postupil-v-ievropieiskii-univiersitiet-sidia-doma)
+
 
 ## Иммиграция:
 
-- [Мой онлайн универ](https://telegra.ph/Evropejskij-diplom-sidya-doma-07-01-2)
 - [Закончил универ и получил диплом](https://t.me/another_way_out/88)
 - [Горда для иммиграции](https://t.me/another_way_out/91)
 
@@ -46,7 +50,7 @@ slug: navigacia-po-kanalu
 - [Чем заняться во время карантина](https://t.me/another_way_out/79)
 - [Остаемся на Бали до окончания карантина](https://t.me/another_way_out/80)
 
-### **Бали**
+### **Бали:**
 
 #### 2019
 - [Изменение планов в сторону Бали](https://t.me/another_way_out/40) - 29.11.2019
@@ -69,7 +73,7 @@ slug: navigacia-po-kanalu
 - [Отчет по дню тишины и другие новости](https://t.me/another_way_out/82)
 - [Перехали на Виллу](https://t.me/another_way_out/85)
 
-**Европа:**
+### **Европа:**
 
 #### 2019
 - [Планы по трипу по Европе](https://t.me/another_way_out/13)
@@ -84,4 +88,4 @@ slug: navigacia-po-kanalu
 
 ### Учеба:
 
-- [Английский для digital мира](https://dpashutskii.com/ru/angliyskiy-dlya-digital-mira/)
+-
