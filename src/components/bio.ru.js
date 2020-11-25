@@ -54,11 +54,10 @@ const BioRu = () => {
           Another way out.
         </a>{" "}
         Навигацию и содержание канала можно найти{" "}
-        <Link
-          to={`/ru/navigacia-po-kanalu/`}
-        >
-          тут.
-        </Link>
+        <Link to={`/ru/navigacia-po-kanalu/`}>тут.</Link> Недавно я начал вести{" "}
+        <a href="https://instagr.am/another_wayout" target="_blank" rel="noreferrer">
+          блог в Instagram.
+        </a>
       </div>
       <div className="mb-2">
         Это канал о поиске себя: путь к иммиграции, попытки в мире
