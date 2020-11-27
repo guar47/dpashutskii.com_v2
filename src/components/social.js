@@ -4,11 +4,14 @@ import LinkedinIcon from "../../content/assets/icons/linkedin-icon.svg"
 import GithubIcon from "../../content/assets/icons/github-icon.svg"
 import CoffeeIcon from "../../content/assets/icons/buymeacoffee-icon.svg"
 import TelegramIcon from "../../content/assets/icons/telegram-icon.svg"
+import InstagramIcon from "../../content/assets/icons/instagram-icon.svg"
 
-const Social = (props) => {
+const Social = props => {
   return (
     <div>
-      <div className="mb-4 font-bold text-center">Get in touch:</div>
+      <div className="mb-4 font-bold text-center">
+        {props.lang === "ru" ? "Контакты:" : "Get in touch:"}
+      </div>
       <div className="flex justify-center">
         <div className="flex justify-between">
           <a
@@ -18,6 +21,22 @@ const Social = (props) => {
             className="no-underline shadow-none"
           >
             <TwitterIcon
+              className="text-gray-800 fill-current hover:text-blue"
+              width={50}
+              height={50}
+            />
+          </a>
+          <a
+            href={
+              props.lang === "ru"
+                ? `https://instagram.com/another_wayout`
+                : `https://instagram.com/dnjourney`
+            }
+            target="_blank"
+            rel="noopener noreferrer"
+            className="no-underline shadow-none"
+          >
+            <InstagramIcon
               className="text-gray-800 fill-current hover:text-blue"
               width={50}
               height={50}
