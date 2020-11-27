@@ -21,9 +21,9 @@ class BlogIndex extends React.Component {
         <SEO
           title="Главная"
           lang="ru"
-          description="Личный блог Димы Пашутского, full-stack разработчика, пуешественника и онлайн предпринимателя"
+          description="Личный блог Дмитрия Пашутского - разработчика, пуешественника и онлайн предпринимателя"
         />
-        <BioRu />
+        <BioRu lang={pageContext.langKey} />
         <h2 className="text-xl font-bold">Последние посты:</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug

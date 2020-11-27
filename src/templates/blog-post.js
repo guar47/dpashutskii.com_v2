@@ -4,7 +4,6 @@ import { graphql } from "gatsby"
 import Social from "../components/social"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import SignUpForm from "../components/sign-up-form"
 import { rhythm, scale } from "../utils/typography"
 
 class BlogPostTemplate extends React.Component {
@@ -42,7 +41,6 @@ class BlogPostTemplate extends React.Component {
           <hr className="h-px" />
           <footer className="mt-5 mb-10">
             <Social />
-            {langKey === "en" && <SignUpForm />}
           </footer>
         </article>
       </Layout>

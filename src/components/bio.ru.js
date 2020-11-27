@@ -3,7 +3,7 @@ import { useStaticQuery, Link, graphql } from "gatsby"
 import Image from "gatsby-image"
 import Social from "./social"
 
-const BioRu = () => {
+const BioRu = props => {
   const data = useStaticQuery(graphql`
     query BioRuQuery {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
@@ -42,33 +42,40 @@ const BioRu = () => {
         </span>
       </div>
       <div className="mb-2">
-        Меня зовут Дима и я full-stack разработчик, путешественник и онлайн
-        предприниматель{" "}
+        Меня зовут Дима и я разработчик, путешественник и инди хакер{" "}
         <span role="img" aria-label="Fire">
-          🔥
-        </span>
+          💻 🧳 🔥
+        </span>{" "}
       </div>
       <div className="mt-5 mb-2">
-        Я веду телеграм канал{" "}
+        Я путешествую по миру, живу в разных местах планеты и работаю онлайн. Об
+        этом я рассказываю в этом блоге,{" "}
         <a href="https://t.me/another_way_out" target="_blank" rel="noreferrer">
-          Another way out.
+          телеграм канале
         </a>{" "}
-        Навигацию и содержание канала можно найти{" "}
-        <Link to={`/ru/navigacia-po-kanalu/`}>тут.</Link> Недавно я начал вести{" "}
-        <a href="https://instagr.am/another_wayout" target="_blank" rel="noreferrer">
-          блог в Instagram.
+        и в{" "}
+        <a
+          href="https://instagr.am/another_wayout"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Instagram.
         </a>
-      </div>
-      <div className="mb-2">
-        Это канал о поиске себя: путь к иммиграции, попытки в мире
-        онлайн-бизнеса, путешествия и digital nomad лайфстайл.
-      </div>
-      <div className="mt-5 mb-2">
-        В этом блоге я републикую часть постов и иногда использую его для более
-        длинных статей.
+        <div className="mt-3">
+          📍 Текущая локация:{" "}
+          <a
+            href="https://nomadlist.com/@guar47"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            Бали, Индонезия{" "}
+          </a>{" "}
+          🇮🇩
+        </div>
       </div>
       <div className="mt-10">
-        <Social />
+        <Social lang={props.lang} />
       </div>
     </div>
   )

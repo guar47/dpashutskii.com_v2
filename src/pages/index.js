@@ -13,9 +13,13 @@ class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges
 
     return (
-      <Layout location={this.props.location} title={siteTitle} lang={pageContext.langKey}>
+      <Layout
+        location={this.props.location}
+        title={siteTitle}
+        lang={pageContext.langKey}
+      >
         <SEO title="Main page" />
-        <Bio />
+        <Bio lang={pageContext.langKey} />
         <h2 className="text-xl font-bold">Latest blog posts:</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
