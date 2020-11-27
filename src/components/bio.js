@@ -3,7 +3,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import Social from "./social"
 
-const Bio = () => {
+const Bio = props => {
   const data = useStaticQuery(graphql`
     query BioQuery {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
@@ -42,32 +42,51 @@ const Bio = () => {
           I'm Dmitrii
         </span>
       </div>
-      <div className="my-2">
-        I am a full-stack software engineer, traveler, and maker{" "}
+      <div className="">
+        I am a web deveoper, traveler, and indie hacker.{" "}
         <span role="img" aria-label="Fire">
-          🔥
-        </span>
+          💻 🧳 🔥
+        </span>{" "}
       </div>
-      <div className="my-2">
-        I mostly work with <b>Ruby</b> and <b>Javascript</b> languages. My
-        favorite web frameworks are <b>Ruby on Rails</b> and <b>React.js</b>.
-        Right now I'm also learning <b>Python</b>.
+      <div className="mt-5">
+        I explore the world, live in different places and work online. I tell
+        stories from my journey on this blog and {" "}
+        <a
+          href="https://instagram.com/dnjourney"
+          target="_blank"
+          rel="noreferrer"
+        >
+          {" "}
+          Instagram.{" "}
+        </a>
       </div>
-      <div className="my-2">
+      <div className="mt-3">
+        📍 Current location:{" "}
+        <a
+          href="https://nomadlist.com/@guar47"
+          target="_blank"
+          rel="noreferrer"
+        >
+          {" "}
+          Bali, Indonesia{" "}
+        </a>{" "}
+        🇮🇩
+      </div>
+      <div className="mt-10">
         In 2020-2021 I am making{" "}
         <a href="https://12xstartup.com/" target="_blank" rel="noreferrer">
           12 startups in 12 months
         </a>{" "}
-        and share my experience on Twitter and this Blog.
+        in public and share my experience.
       </div>
-      <div className="my-2">
+      <div className="my-1">
         My project #1:{" "}
         <a href="https://getlearningstory.com" target="_blank" rel="noreferrer">
           Learning Story
         </a>
       </div>
       <div className="mt-10">
-        <Social />
+        <Social lang={props.lang} />
       </div>
     </div>
   )
