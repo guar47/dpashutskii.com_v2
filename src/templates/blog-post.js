@@ -14,7 +14,6 @@ class BlogPostTemplate extends React.Component {
     const image = post.frontmatter.image
       ? post.frontmatter.image.childImageSharp.resize
       : null
-    console.log(image)
 
     return (
       <Layout location={this.props.location} title={siteTitle} lang={langKey}>
