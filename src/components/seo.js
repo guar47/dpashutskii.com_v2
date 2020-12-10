@@ -27,7 +27,6 @@ function SEO({ description, lang, meta, title, image: metaImage }) {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  console.log(metaImage)
   const image = metaImage && metaImage.src  ? `${site.siteMetadata.siteUrl}${metaImage.src}` : null
 
   return (
