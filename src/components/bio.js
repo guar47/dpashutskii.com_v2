@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 import Social from "./social"
 
@@ -50,7 +50,7 @@ const Bio = props => {
       </div>
       <div className="mt-5">
         I explore the world, live in different places and work online. I tell
-        stories from my journey on this blog and {" "}
+        stories from my journey on this blog and{" "}
         <a
           href="https://instagram.com/dnjourney"
           target="_blank"
@@ -84,6 +84,17 @@ const Bio = props => {
         <a href="https://getlearningstory.com" target="_blank" rel="noreferrer">
           Learning Story
         </a>
+        ,{" "}
+        <Link to="/project-1-learning-story" target="_blank" rel="noreferrer">
+          Blog post
+        </Link>
+      </div>
+      <div className="my-1">
+        My project #2:{" "}
+        <a href="https://nextplaceto.com" target="_blank" rel="noreferrer">
+          Next place
+        </a>{" "}
+        - Coming Soon
       </div>
       <div className="mt-10">
         <Social lang={props.lang} />
