@@ -43,7 +43,7 @@ const Bio = props => {
         </span>
       </div>
       <div className="">
-        I am a web deveoper, traveler, and indie hacker.{" "}
+        I am a web developer, traveler, and indie hacker.{" "}
         <span role="img" aria-label="Fire">
           💻 🧳 🔥
         </span>{" "}
