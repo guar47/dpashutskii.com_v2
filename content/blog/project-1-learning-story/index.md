@@ -4,6 +4,7 @@ date: "2020-12-10 13:00"
 description: "My first project in the 12xstartup challenge is the learning community. "
 featured: images/learning-story.jpg
 slug: project-1-learning-story
+category: making
 ---
 
 My first project in the [12xstartup.com](http://12xstartup.com/) challenge is "Learning Story" and I've recently launched it.

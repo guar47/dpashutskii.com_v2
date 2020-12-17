@@ -60,9 +60,8 @@ class Layout extends React.Component {
     return (
       <React.Fragment>
         <div
-          className="mx-auto"
+          className="max-w-3xl mx-auto"
           style={{
-            maxWidth: rhythm(24),
             padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
           }}
         >

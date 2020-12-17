@@ -3,6 +3,7 @@ title: Goals for 2018 - 50% review
 date: "2018-07-21 12:00"
 description: "My half-way reflection on the goals for 2018 year"
 slug: goals-for-2018-50-percent
+category: personal
 ---
 
 _This post was originally [published on Medium](https://medium.com/@guar47/goals-for-2018-50-d6d4c2627089)._

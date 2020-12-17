@@ -4,6 +4,7 @@ date: "2020-09-28 18:00"
 description: "Starting a new challenge of creating the products for the whole year"
 featured: images/do-something-great.jpg
 slug: year-of-making
+category: making
 ---
 
 I've been working in the IT industry for almost 10 years and for the last 3 years as a web developer. It's been a great time and I'm super happy about my career path but I've decided that it is the time for a new challenge!

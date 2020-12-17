@@ -3,6 +3,7 @@ title: Cost of living in Bali
 date: "2020-02-04 15:17"
 description: "My average calculation on cost of living in Bali, Indonesia"
 slug: cost-of-living-in-bali
+category: travel
 ---
 
 Today I want to talk about money and share how much does it costs to live in Bali as a nomad.

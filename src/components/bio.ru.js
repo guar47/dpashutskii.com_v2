@@ -26,7 +26,7 @@ const BioRu = props => {
 
   const { author } = data.site.siteMetadata
   return (
-    <div className="mb-20">
+    <div className="mb-7">
       <div className="flex items-center mb-2">
         <Image
           fixed={data.avatar.childImageSharp.fixed}
@@ -62,7 +62,10 @@ const BioRu = props => {
           Instagram.
         </a>
         <div className="mt-3">
-          📍 Текущая локация:{" "}
+          <span role="img" aria-label="Fire">
+            📍
+          </span>{" "}
+          Текущая локация:{" "}
           <a
             href="https://nomadlist.com/@guar47"
             target="_blank"

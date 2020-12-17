@@ -3,6 +3,7 @@ title: Hexlet projects review. part 1.
 date: "2017-01-09 12:00"
 description: "Первая часть обзора Хекслет проектов"
 slug: hexlet-projects-part-1
+category: dev
 ---
 
 ## О чем это
