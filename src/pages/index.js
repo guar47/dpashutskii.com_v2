@@ -15,21 +15,21 @@ class BlogIndex extends React.Component {
       travel: "text-green-800",
       making: "text-indigo-800",
       personal: "text-gray-800",
-      dev: "text-blue-800"
+      dev: "text-yellow-800"
     }
 
     const bgClass = {
       travel: "bg-green-100",
       making: "bg-indigo-100",
       personal: "bg-gray-100",
-      dev: "bg-blue-100"
+      dev: "bg-yellow-100"
     }
 
     const borderClass = {
       travel: "border-green-400",
       making: "border-indigo-400",
       personal: "border-gray-400",
-      dev: "border-blue-400"
+      dev: "border-yellow-400"
     }
 
     return (
