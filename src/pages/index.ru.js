@@ -21,7 +21,7 @@ class BlogIndex extends React.Component {
         <SEO
           title="Главная"
           lang="ru"
-          description="Личный блог Дмитрия Пашутского - разработчика, пуешественника и онлайн предпринимателя"
+          description="Личный блог Дмитрия Пашутского - разработчика, пуешественника и инди хакера"
         />
         <BioRu lang={pageContext.langKey} />
         <h2 className="text-xl font-bold">Последние посты:</h2>

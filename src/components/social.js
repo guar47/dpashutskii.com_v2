@@ -9,9 +9,6 @@ import InstagramIcon from "../../content/assets/icons/instagram-icon.svg"
 const Social = props => {
   return (
     <div>
-      <div className="mb-4 font-bold text-center">
-        {props.lang === "ru" ? "Контакты:" : "Get in touch:"}
-      </div>
       <div className="flex justify-center">
         <div className="flex justify-between">
           <a
@@ -21,7 +18,7 @@ const Social = props => {
             className="no-underline shadow-none"
           >
             <TwitterIcon
-              className="text-gray-800 fill-current hover:text-blue"
+              className="text-gray-800 fill-current hover:text-blue-800"
               width={50}
               height={50}
             />
@@ -37,7 +34,7 @@ const Social = props => {
             className="no-underline shadow-none"
           >
             <InstagramIcon
-              className="text-gray-800 fill-current hover:text-blue"
+              className="text-gray-800 fill-current hover:text-blue-800"
               width={50}
               height={50}
             />
@@ -49,7 +46,7 @@ const Social = props => {
             className="no-underline shadow-none"
           >
             <LinkedinIcon
-              className="text-gray-800 fill-current hover:text-blue"
+              className="text-gray-800 fill-current hover:text-blue-800"
               width={50}
               height={50}
             />
@@ -61,7 +58,7 @@ const Social = props => {
             className="no-underline shadow-none"
           >
             <GithubIcon
-              className="text-gray-800 fill-current hover:text-blue"
+              className="text-gray-800 fill-current hover:text-blue-800"
               width={50}
               height={50}
             />
@@ -73,7 +70,7 @@ const Social = props => {
             className="no-underline shadow-none"
           >
             <CoffeeIcon
-              className="text-gray-800 fill-current hover:text-blue"
+              className="text-gray-800 fill-current hover:text-blue-800"
               width={50}
               height={50}
             />
@@ -85,7 +82,7 @@ const Social = props => {
             className="no-underline shadow-none"
           >
             <TelegramIcon
-              className="text-gray-800 fill-current hover:text-blue"
+              className="text-gray-800 fill-current hover:text-blue-800"
               width={50}
               height={50}
             />

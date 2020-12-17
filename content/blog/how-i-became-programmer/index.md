@@ -4,6 +4,7 @@ date: "2020-06-29 15:00"
 description: "My story of how I became a programmer and how I found myself in life"
 featured: images/code-laptop.jpg
 slug: how-i-became-a-developer
+category: dev
 ---
 
 Recently I started feeling a bit nostalgic and decided to put my feelings in words. This is my story about becoming a self-taught software engineer but also about finding myself in life.

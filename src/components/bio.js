@@ -26,7 +26,7 @@ const Bio = props => {
 
   const { author } = data.site.siteMetadata
   return (
-    <div className="mb-20">
+    <div className="mb-7">
       <div className="flex items-center mb-2">
         <Image
           fixed={data.avatar.childImageSharp.fixed}
@@ -48,20 +48,11 @@ const Bio = props => {
           💻 🧳 🔥
         </span>{" "}
       </div>
-      <div className="mt-5">
-        I explore the world, live in different places and work online. I tell
-        stories from my journey on this blog and{" "}
-        <a
-          href="https://instagram.com/dnjourney"
-          target="_blank"
-          rel="noreferrer"
-        >
-          {" "}
-          Instagram.{" "}
-        </a>
-      </div>
       <div className="mt-3">
-        📍 Current location:{" "}
+        <span role="img" aria-label="Fire">
+          📍
+        </span>{" "}
+        Current location:{" "}
         <a
           href="https://nomadlist.com/@guar47"
           target="_blank"
@@ -72,7 +63,7 @@ const Bio = props => {
         </a>{" "}
         🇮🇩
       </div>
-      <div className="mt-10">
+      <div className="mt-5">
         In 2020-2021 I am making{" "}
         <a href="https://12xstartup.com/" target="_blank" rel="noreferrer">
           12 startups in 12 months
@@ -96,7 +87,7 @@ const Bio = props => {
         </a>{" "}
         - Coming Soon
       </div>
-      <div className="mt-10">
+      <div className="mt-7">
         <Social lang={props.lang} />
       </div>
     </div>
