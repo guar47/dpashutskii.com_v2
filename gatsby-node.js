@@ -11,9 +11,10 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 
   createRedirect({
-    fromPath: "/cost-of-living-bali",
+    fromPath: "/cost-of-living-bali/",
     toPath: "https://dnjourney.com/bali-cost-of-living",
     isPermanent: true,
+    force: true
   })
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
