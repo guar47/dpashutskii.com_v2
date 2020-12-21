@@ -12,24 +12,21 @@ class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges
 
     const textClass = {
-      travel: "text-green-800",
       making: "text-indigo-800",
       personal: "text-gray-800",
-      dev: "text-yellow-800"
+      dev: "text-yellow-800",
     }
 
     const bgClass = {
-      travel: "bg-green-100",
       making: "bg-indigo-100",
       personal: "bg-gray-100",
-      dev: "bg-yellow-100"
+      dev: "bg-yellow-100",
     }
 
     const borderClass = {
-      travel: "border-green-400",
       making: "border-indigo-400",
       personal: "border-gray-400",
-      dev: "border-yellow-400"
+      dev: "border-yellow-400",
     }
 
     return (
@@ -83,7 +80,10 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { fields: { langKey: { eq: "en" } } }
+      filter: {
+        fields: { langKey: { eq: "en" } }
+        frontmatter: { slug: { ne: "cost-of-living-in-bali" } }
+      }
     ) {
       edges {
         node {

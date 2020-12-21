@@ -43,25 +43,18 @@ const Bio = props => {
         </span>
       </div>
       <div className="">
-        I am a web developer, traveler, and indie hacker.{" "}
-        <span role="img" aria-label="Fire">
-          💻 🧳 🔥
-        </span>{" "}
-      </div>
-      <div className="mt-3">
-        <span role="img" aria-label="Fire">
-          📍
-        </span>{" "}
-        Current location:{" "}
+        I am a web developer,{" "}
         <a
-          href="https://nomadlist.com/@guar47"
+          href="https://dnjourney.com"
           target="_blank"
           rel="noreferrer"
         >
-          {" "}
-          Bali, Indonesia{" "}
-        </a>{" "}
-        🇮🇩
+          traveler
+        </a>
+        , and indie hacker.{" "}
+        <span role="img" aria-label="Fire">
+          💻 🧳 🔥
+        </span>{" "}
       </div>
       <div className="mt-5">
         In 2020-2021 I am making{" "}
