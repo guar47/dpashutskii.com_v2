@@ -48,7 +48,11 @@ const Bio = props => {
           traveler
         </a>
         ,{" "}
-        <a href="https://youtube.com/channel/UCqgoEzNIMYpCQNEGxawx_6w" target="_blank" rel="noreferrer">
+        <a
+          href="https://youtube.com/channel/UCqgoEzNIMYpCQNEGxawx_6w"
+          target="_blank"
+          rel="noreferrer"
+        >
           youtuber
         </a>
         , and indie hacker.{" "}
@@ -75,6 +79,24 @@ const Bio = props => {
       </div>
       <div className="my-1">
         My project #2:{" "}
+        <a
+          href="https://www.youtube.com/channel/UCqgoEzNIMYpCQNEGxawx_6w"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Programming YouTube channel
+        </a>{" "}
+        and{" "}
+        <a
+          href="https://www.youtube.com/channel/UCtZd4Chy6nqjX1X06ypzEgw"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Travel YouTube channel
+        </a>
+      </div>
+      <div className="my-1">
+        My project #3:{" "}
         <a href="https://nextplaceto.com" target="_blank" rel="noreferrer">
           Next place
         </a>{" "}

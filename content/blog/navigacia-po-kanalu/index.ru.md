@@ -1,34 +1,28 @@
 ---
 title: Навигация по телеграм каналу Another Way Out
 date: "2019-10-20 12:00"
-description: "Пост с навигацией по телеграм каналу со ссылками на посты"
+description: "Пост с навигацией по телеграм каналу и инстаграму со ссылками на посты"
 slug: navigacia-po-kanalu
 ---
 
-**Телеграм канал [Another Way Out](https://t.me/another_way_out)**
+**Телеграм канал [Another Way Out](https://t.me/another_way_out) и [Instagram](https://www.instagram.com/another_wayout/)**
 
-***Обновляемый пост, последнее обновление **13.11.2020.*****
-
-## Большие посты:
-
-- [Моя история](https://dpashutskii.com/ru//moj-put-k-puteshestviyam-i-immigracii/)
-- [Английский для digital мира](https://dpashutskii.com/ru/angliyskiy-dlya-digital-mira/)
-- [Мой онлайн универ](https://dpashutskii.com/ru/kak-ia-postupil-v-ievropieiskii-univiersitiet-sidia-doma/)
-- [Гайд по Upwork](https://dpashutskii.com/ru/upwork-guide/)
-
+***Обновляемый пост, последнее обновление **05.02.2021.*****
 
 ## Иммиграция:
 
 - [Закончил универ и получил диплом](https://t.me/another_way_out/88)
 - [Горда для иммиграции](https://t.me/another_way_out/91)
+- [Почему мы решили переезжать в Канаду?](https://t.me/another_way_out/104)
 
-## Номадинг и фриланс:
+## Номадинг, фриланс и предпринимательство:
 
 - Посты в канале про Upwork: [часть 1](https://t.me/another_way_out/43), [часть 2](https://t.me/another_way_out/44), [часть 3](https://t.me/another_way_out/45), [часть 4](https://t.me/another_way_out/48), [часть 5](https://t.me/another_way_out/50)
 - [Nomadlist](https://t.me/another_way_out/41)
 - [Регистрация ИП](https://t.me/another_way_out/58)
 - [Makers communities](https://t.me/another_way_out/70)
 - [Подборка сайтов для удаленки и фриланса](https://t.me/another_way_out/83)
+- [Планы на год в предпринимательстве](https://t.me/another_way_out/93) ([пост в Instagram](https://www.instagram.com/p/CICvVI9nlsv/))
 
 ## Путешествия:
 
@@ -53,7 +47,7 @@ slug: navigacia-po-kanalu
 
 ### **Бали:**
 
-#### **2019:**
+### 2019 год:
 
 - [Изменение планов в сторону Бали](https://t.me/another_way_out/40) - 29.11.2019
 - [Первая неделя на Бали](https://t.me/another_way_out/42) - 06.10.2019
@@ -61,7 +55,7 @@ slug: navigacia-po-kanalu
 - [Район Чангу](https://t.me/another_way_out/53) - 05.11.2019
 - [Район Убуд](https://t.me/another_way_out/54) - 18.11.2019
 
-#### **2020:**
+### 2020 год:
 
 - [Новый год на Бали](https://t.me/another_way_out/59) - 09.01.2020
 - [Дайвинг](https://t.me/another_way_out/60)
@@ -75,10 +69,14 @@ slug: navigacia-po-kanalu
 - [Балийский новый год и день тишины](https://t.me/another_way_out/81)
 - [Отчет по дню тишины и другие новости](https://t.me/another_way_out/82)
 - [Перехали на Виллу](https://t.me/another_way_out/85)
+- [Поездка в GWK парк](https://t.me/another_way_out/95) ([пост в Instagram](https://www.instagram.com/p/CIhtrudB8kv/))
+
+### 2021 год:
+
+- [Поездка в Ловину](https://t.me/another_way_out/98) ([пост в Instagram](https://www.instagram.com/p/CKxnz-wBnju/))
 
 ### **Европа:**
-
-#### ***2019:**
+### 2019:
 
 - [Планы по трипу по Европе](https://t.me/another_way_out/13)
 - [Освенцим](https://t.me/another_way_out/16)
@@ -89,3 +87,11 @@ slug: navigacia-po-kanalu
 - [Роттердам](https://t.me/another_way_out/33)
 - [Берлин](https://t.me/another_way_out/38)
 - [Мюнхен](https://t.me/another_way_out/39)
+
+
+## Личное:
+
+- [Итоги 2020 года](https://t.me/another_way_out/96) ([пост в Instagram](https://www.instagram.com/p/CKktcP3BCGT/))
+- [Планы на 2021 год](https://t.me/another_way_out/97) ([пост в Instagram](https://www.instagram.com/p/CKqJv9XBbtm/))
+- [О себе в Instagram](https://www.instagram.com/p/CIAVoj2n2eS/)
+
