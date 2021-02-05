@@ -5,6 +5,7 @@ import GithubIcon from "../../content/assets/icons/github-icon.svg"
 import CoffeeIcon from "../../content/assets/icons/buymeacoffee-icon.svg"
 import TelegramIcon from "../../content/assets/icons/telegram-icon.svg"
 import InstagramIcon from "../../content/assets/icons/instagram-icon.svg"
+import YouTubeIcon from "../../content/assets/icons/youtube-icon.svg"
 
 const Social = props => {
   return (
@@ -34,6 +35,18 @@ const Social = props => {
             className="no-underline shadow-none"
           >
             <InstagramIcon
+              className="text-gray-800 fill-current hover:text-blue-800"
+              width={50}
+              height={50}
+            />
+          </a>
+          <a
+            href={`https://www.youtube.com/channel/UCqgoEzNIMYpCQNEGxawx_6w`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="no-underline shadow-none"
+          >
+            <YouTubeIcon
               className="text-gray-800 fill-current hover:text-blue-800"
               width={50}
               height={50}
