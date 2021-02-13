@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Projects from "../components/projects"
 
 class BlogIndex extends React.Component {
   render() {
@@ -37,13 +38,14 @@ class BlogIndex extends React.Component {
       >
         <SEO title="Main page" />
         <Bio lang={pageContext.langKey} />
+        <Projects />
         <h2 className="text-xl mt-0 mb-3 font-bold">Latest blog posts:</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <article className="mb-5" key={node.fields.slug}>
               <header>
-                <h3 class="mt-3 mb-0">
+                <h3 className="mt-3 mb-0">
                   <Link
                     className="text-lg font-bold shadow-none font-text"
                     to={`${node.fields.slug}`}
@@ -52,7 +54,7 @@ class BlogIndex extends React.Component {
                   </Link>
                 </h3>
                 <span
-                  class={`mr-3 px-2 inline-flex text-xs leading-5 font-semibold rounded-sm border
+                  className={`mr-3 px-2 inline-flex text-xs leading-5 font-semibold rounded-sm border
                           ${borderClass[node.frontmatter.category]}
                           ${bgClass[node.frontmatter.category]}
                           ${textClass[node.frontmatter.category]}`}

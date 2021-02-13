@@ -67,41 +67,6 @@ const Bio = props => {
         </a>{" "}
         in public and share my experience.
       </div>
-      <div className="my-1">
-        My project #1:{" "}
-        <a href="https://getlearningstory.com" target="_blank" rel="noreferrer">
-          Learning Story
-        </a>
-        ,{" "}
-        <Link to="/project-1-learning-story" target="_blank" rel="noreferrer">
-          Blog post
-        </Link>
-      </div>
-      <div className="my-1">
-        My project #2:{" "}
-        <a
-          href="https://www.youtube.com/channel/UCqgoEzNIMYpCQNEGxawx_6w"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Programming YouTube channel
-        </a>{" "}
-        and{" "}
-        <a
-          href="https://www.youtube.com/channel/UCtZd4Chy6nqjX1X06ypzEgw"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Travel YouTube channel
-        </a>
-      </div>
-      <div className="my-1">
-        My project #3:{" "}
-        <a href="https://nextplaceto.com" target="_blank" rel="noreferrer">
-          Next place
-        </a>{" "}
-        - Coming Soon
-      </div>
       <div className="mt-7">
         <Social lang={props.lang} />
       </div>
