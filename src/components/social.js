@@ -25,11 +25,7 @@ const Social = props => {
             />
           </a>
           <a
-            href={
-              props.lang === "ru"
-                ? `https://instagram.com/another_wayout`
-                : `https://instagram.com/dnjourney`
-            }
+            href={`https://instagram.com/d_pashutskii`}
             target="_blank"
             rel="noopener noreferrer"
             className="no-underline shadow-none"
