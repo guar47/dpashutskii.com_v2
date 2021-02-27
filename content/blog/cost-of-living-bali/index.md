@@ -1,77 +1,102 @@
 ---
 title: Cost of living in Bali
-date: "2020-02-04 15:17"
-description: "My average calculation on cost of living in Bali, Indonesia"
+date: "2021-01-15 16:43"
+description: "Detailed review of average cost of living in Bali, Indonesia in 2021"
 slug: cost-of-living-in-bali
 category: travel
+featured: images/bali-rice-fields.JPG
 ---
 
-Today I want to talk about money and share how much does it costs to live in Bali as a nomad.
+`youtube: https://www.youtube.com/watch?v=aMCLvWapM7g`
 
-I am here already for 4th month, so I can do some arithmetic mean. I live in Canggu district, but other touristic areas are not much different.
+I've been living in Bali for 15 months in a row in 2019-2021. I'm always tracking my spending numbers. So I collected average numbers on how much it costs to live in Bali, Indonesia.
 
-Worth noting that I am here with my wife, and we have a common budget, but I'll try to calculate costs for one person as well.
+You should read this with a grain of salt because all lifestyles are different. You could spend more or less than me. I am trying to live on a budget but maintain comfort. So my cost of living it's something average for nomads/expats.
 
-**🏡 Accommodation**
+Bali is a big place and I've been living in "digital nomad" areas: Canggu, Pererenan, Kerobokan, Pererenan, and Ubud. There are more "local" areas where you can expect cheaper prices.
 
-The most expensive category for us, but it varies depends on your appetite for comfort. You can find a very simple guest house for €350, but also very expensive personal villas for €2000.
+I live with my wife so most of our costs are true for couples. But I'll try to break down the price for single people.
 
-We rent a shared house. We don't have a pool, but we have a personal kitchen, good refurbishment, and cleaning. It costs us €600.
+All prices in the article are in US dollars adjusted for the average exchange rate in 2020: *100,000 IDR for 7$.*
 
-That's the price I recommend everyone to count on. Especially if you're planning to live for more than one month.
+## 🏡 Accommodation
 
-This category doesn't split if you're alone. The price rarely decreasing depending on the number of people.
+This is the most expensive category but it depends on your appetite for comfort. You can find a very simple guest houses for 300$ but also very expensive private villas for 2000$.
 
-**🍲 Eat out**
+I've lived in different types of places. I prefer a one bedroom with private kitchen, desk for work and sometimes pool. It usually includes cleaning 2-3 times per week and doesn't include electricity.
 
-Since this is Asia most of the times we are eating out. Cafés/restaurants are very different from each other. There is a lot of warung's (local eatery) with pretty good food with €1-1.5 per dish. But there are also many hipster style restraints with €7-8 per dish. And your budget is going to depend on your choice.
+Most of the time we pay around 500-700$ per month. During the COVID-19 we pay the same but get more space for the same amount. Electricity is expensive in Bali. You can add 60-80$ to the total price. That's the price I recommend to count on, especially if you're going to stay for more than one month.
 
-We go to places with average prices (or a bit higher sometimes) and very rarely order drinks. Besides, we have breakfast at home most of the days.
+![Villa picture](images/villa-image.jpg)
 
-Our monthly average is €380.
+This category doesn't split if you're alone. Unlikely you will find the place for one than will be cheaper than for two people. But you can find a nice villa and share it with your friends. In that case, you'll spend the same but the place will be better.
 
-If you travel alone you can split it into two (€190)
+**Average Cost: ~650$ for one person and a couple.**
 
-**🧀 Grocery**
+## 🍲 Eat out
 
-We don't spend much money here, especially compared to Moscow where we cook at home.
+Since this is South East Asia, most of the time I eat out. Cafés/restaurants are very different from each other. There are tons of warung's (local eatery) with pretty good food as cheap as 1-1.5$ per dish. But there are many hipster style restaurants where the dish could easily cost you 7-8$. And your budget will depend on your choice.
 
-Most of the shopping is fruits (they are cheap in Asia), eggs, cheese and bread and some other stuff for breakfast.
+We usually go to places with average prices and very rarely order drinks. Besides, we have breakfast at home most days. Even by cutting down one meal in the restaurant per day, you can save some money. It's cheaper to cook at home but the difference is not so dramatic as in western countries.
 
-Most of the grocery costs the same as in Moscow (and most of Europe) with continent specifics. For example, rice is very cheap and the potatoes are expensive.
+**Average cost: 175$ for one person / 350$ for a couple.**
 
-We spend €130 on average in this category, you can split in two if you're alone (€65).
+## 🧀 Grocery
 
-**👩‍💼 Insurance**
+Since we don't cook at home much we don't spend much money in this category. We buy stuff for breakfast, cheese, eggs, bread, fruits, and bakery from time to time. It doesn't include household items but you can expect a lot of them provided by your host.
 
-It's very important to have insurance when you're traveling.
+On average the price for groceries is the same as in Russia or European countries. Some stuff is more expensive like some vegetables, cheese, and dairy. But the fruits are much cheaper.
 
-The average price for the insurance at my local companies and [Safety Wings](https://safetywing.com) is €40 per month per person.
+**Average cost: 80$ for one person / 160$ for a couple.**
 
-**🛫 Planes/Visas**
+## 🛫 Planes/Visas
 
-If you're planning to stay in Bali (or anywhere in Indonesia) you have to do visa-runs. There is an option to get a social visa, but I haven't done it, so I'm not considering this.
+If you want to stay in Bali (or anywhere in Indonesia) for a long time you have to do visa-runs. There is an option to get a social visa for 6 months but in that case, you can't leave the country. And you still need to extend the social visa every month so the expenses are similar.
 
-Buying Visa on arrival at the airport (30 days) + extend it for 30 more days with local agency costs you €85. You must do it only once per two months so let's count that costs €42,5.
+Visa on arrival for 30 days at the airport + 30 days extension with a local agency will cost you 105$. You must do it only once per two months so let's count that as a 50$ monthly cost. After two months when the visa expires you have to leave the country. The cheapest options are Kuala Lumpur, Malaysia, or Singapore. Please double check your visa status for each country. But for most passports they allow you to get a free visa on arrival.
 
-After two months when the visa expires you have to leave the country. The cheapest options are Kuala Lumpur, Malaysia or Singapore (double check your visa status here).
+![Abandoned plane picture](images/abandoned-plane.jpg)
 
-The average price for two ways tickets are €200 and again we split it because it's once per two-month activity. It gives us €100 per person per month
+The average price for two ways tickets is 250$. And again we can split it because it's once per two-month activity. It leaves us with 125$ per person per month.
 
-**🛵 Transport**
+**Average cost: 175$ for one person / 350$ for a couple.**
 
-Usually, in most of Asia, you can rent a scooter/motorcycle cheap. In Bali rent a scooter + gas costs around €80-€120. It depends on the vehicle.
+## 🛵 Transport
 
-I have no idea how much it costs to move around in a taxi. I guess 3-4 times more expensive.
+In most parts of South East Asia, you can rent a scooter/motorcycle pretty cheap. In Bali rent a scooter + gas costs around 100$-150$. This price is for the most popular automatic scooters: Honda Vario, Yamaha N-Max, Honda Scoopy.
 
-Most of the couples rent one scooter per person, and we're no exception.
+If you are a motorcycle enthusiast you can find a wide range of different motorcycles. If you like you can even order a custom one. It will cost you more so do your research on that topic. It could make sense to buy a motorcycle if you came here for a long time. I don't recommend buying a scooter though. To make this deal worthwhile you have to live in Bali for more than three years. And don't forget about maintaining costs.
 
-**🛸 Other**
+![Man on a bike picture](images/man-on-a-bike.jpg)
 
-For sure, you are going to face any other unpredictable expenses. It's always a good idea to have some savings with you. You can consider medicine, household items, bars and alcohol, movies, gym, surfing, and other activities. Also, you could want to buy something like clothes or electronics.
+If you like cars it's an option as well. But be ready that driving could be hard compared to your home country (unless you're from Asia). Many dogs, scooters, roosters, people on the road will make driving the car here a hard task. You also will likely spend more time in traffic jams. I've never rented a car here but the price is around 400-500$ per month for the cheapest models.
 
-To be safe you should have at least an extra €300 per month.
+The scooters are much more common and many couples rent one bike for two.
 
-**💰 Summary**
+**Average cost: 100$ for one person and a couple.**
 
-I made [a summary Google sheets table](https://docs.google.com/spreadsheets/d/1SN-RY7_cDmGd7gNol3Jj5N15Gf97C2NTgL6jz10q0vc/edit?usp=sharing) for better visibility.
+## 👩‍💼 Insurance
+
+It's very important to have insurance when you're traveling or staying abroad. There is a lot of dangerous situations in Bali that could lead to medical help need.
+
+Since we discovered [Safety Wings](https://safetywing.com/a/dnjourney) (affiliate link) we're only buying this insurance for all our trips. I recommend you to take a look at them. It costs only 40$ dollars per month but covers most of the situation you can find you in. It even covers COVID-19 bills right now.
+
+Luckily, I've never had to use that insurance so I can't say how good the service is. There are different stories on the Internet so I'd recommended you to do some research. There are not so many options out there so I, personally, continue to rely on them.
+
+**Average price: 40$ for one person / 80$ for a couple.**
+
+## 🛸 Other
+
+You'll likely need other unpredictable expenses. It's always a good idea to have some extra savings with you. For example, you may need medicine, bath accessories, bars and alcohol, movies, gym, surfing, and other activities. By the way, the gym membership costs about 100$ per month which is crazy-expensive. You can find the cheaper local gym options without AC.
+
+Besides, you might want to buy some clothes or electronics. To be safe you should have at least an extra 200$ per month.
+
+**Average price: 200$ for one person / 400$ for a couple.**
+
+## 💰 Summary
+In summary, you can comfortably live in Bali for **~1400$ per month or ~2000$ for a couple**. You can decrease or increase this amount. When we were on the budget when we first time visited the island we managed to survive on less than 1000$ as a couple. So it's possible.
+
+Also, I made [a summary Google sheets table](https://docs.google.com/spreadsheets/d/1SN-RY7_cDmGd7gNol3Jj5N15Gf97C2NTgL6jz10q0vc/edit?usp=sharing) for better visibility.
+
+I hope this guide gave you some ideas on how much money you need to save or what income do you need to spend time in Bali. If you have any questions you can reach me out on [Instagram](https://www.instagram.com/d_pashutskii/).
+If you like my content you can share it on social media or subscribe to my newsletter. I'll send you an email when the new post comes out.
