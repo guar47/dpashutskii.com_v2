@@ -38,7 +38,7 @@ Right now we travel with my wife around East Southern Asia, we visited 17 cities
 We also wanted to have some kind of travel journal and we experimented with a lot of platforms and ended up with two:
 
 - [Our Youtube channel](https://www.youtube.com/channel/UCtZd4Chy6nqjX1X06ypzEgw) - we upload twice per week (Monday and Friday), so if you interested how our travel journey goes, subscribe! This is also lead me to learn new things like editing, filming and YouTube-ing in general which is great because I love to learn new things, especially outside of IT area.
-- [Our Instagram](https://www.instagram.com/dnjourney/) - where we post a lot of photos from our journey and sometimes stories. Instagram is an amazing platform where you can express yourself. It's already gone beyond food and girlish photos. You basically can create an account for any kind of creativity you do and share with the world.
+- [Our Instagram](https://www.instagram.com/d_pashutskii/) - where we post a lot of photos from our journey and sometimes stories. Instagram is an amazing platform where you can express yourself. It's already gone beyond food and girlish photos. You basically can create an account for any kind of creativity you do and share with the world.
 - In addition, we have a plan to start out website/blog very soon.
 
 100% to this goal as well!
