@@ -43,19 +43,16 @@ const Bio = props => {
         </span>
       </div>
       <div className="">
-        I am a software engineer,{" "}
-        <a href="https://dnjourney.com" target="_blank" rel="noreferrer">
-          traveler
-        </a>
-        ,{" "}
+        I write code, travel the world,{" "}
         <a
-          href="https://youtube.com/channel/UCqgoEzNIMYpCQNEGxawx_6w"
+          href="https://www.youtube.com/channel/UCtZd4Chy6nqjX1X06ypzEgw"
           target="_blank"
           rel="noreferrer"
         >
-          youtuber
+          make videos
         </a>
-        , and indie hacker.{" "}
+        , and{` `}
+        <Link to={`/projects`}>hack side projects. </Link>
         <span role="img" aria-label="Fire">
           💻 🧳 🔥
         </span>{" "}

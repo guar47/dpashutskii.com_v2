@@ -4,6 +4,7 @@ date: "2020-03-04 10:29"
 description: "Overview of the modern makers world"
 slug: maker-community
 category: making
+featured: images/meetup-image.jpg
 ---
 
 Right now I'm an expat in Bali, Indonesia, in a small area called Canggu. This village/district of Bali is very famous for the nomad community - creative people who live here for the long term. You can find here all kinds of people. They are programmers/designers/bloggers/writers/coaches and other modern professionals.

@@ -31,42 +31,6 @@ const ProjectCard = props => {
           }
         }
       }
-      dnJourneyYoutubeImage: file(
-        absolutePath: { regex: "/dnjourney-youtube-channel.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 350, height: 250) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      anotherWayOutImage: file(
-        absolutePath: { regex: "/anotherwayout-screenshot.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 350, height: 250) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      dnJourneyImage: file(
-        absolutePath: { regex: "/dnjourney-blog-screenshot.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 350, height: 250) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      codingYouTubeImage: file(
-        absolutePath: { regex: "/coding-youtube-screenshot.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 350, height: 250) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
     }
   `)
 
@@ -75,11 +39,6 @@ const ProjectCard = props => {
   const imageUrls = {
     "Arcade Hub": data.arcadeHubImage.childImageSharp.fixed,
     "Learning Story": data.learningStoryImage.childImageSharp.fixed,
-    "DN Journey YouTube channel":
-      data.dnJourneyYoutubeImage.childImageSharp.fixed,
-    AnotherWayOut: data.anotherWayOutImage.childImageSharp.fixed,
-    "DN Journey Blog": data.dnJourneyImage.childImageSharp.fixed,
-    "Coding YouTube channel": data.codingYouTubeImage.childImageSharp.fixed,
   }
 
   const stackElements = {

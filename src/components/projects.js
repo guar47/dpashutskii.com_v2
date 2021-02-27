@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <div className="mb-12">
       <h2 className="text-2xl mt-0 mb-3 font-bold">My projects:</h2>
-      <h3 className="text-xl mt-0 mb-3 font-bold">Web development:</h3>
+      <h3 className="text-xl mt-0 mb-3 font-bold">Tech:</h3>
       <div className="grid grid-col-1 gap-4">
         <ProjectCard
           title="Arcade Hub"
@@ -23,10 +23,17 @@ const Projects = () => {
           url="https://getlearningstory.com"
           stack={true}
         />
-        <h3 className="text-xl mt-5 mb-0 font-bold">Non tech projects:</h3>
+        <h3 className="text-xl mt-5 mb-0 font-bold">Non tech:</h3>
         <ProjectCard
-          title="DN Journey YouTube channel"
-          description="YouTube channel about traveling, nomading and related experiences."
+          title="This Blog"
+          description="Blog about indie making, development, traveling and nomading."
+          launchDate="2018-07-21"
+          url="https://dpashutskii.com"
+          stack={false}
+        />
+        <ProjectCard
+          title="YouTube channel"
+          description="My channel about traveling, nomading, tech and related experiences."
           launchDate="2018-08-30"
           url="https://www.youtube.com/channel/UCtZd4Chy6nqjX1X06ypzEgw"
           stack={false}
@@ -36,20 +43,6 @@ const Projects = () => {
           description="Telegram channel in Russian about traveling, immigration, remote work and nomad lifestyle."
           launchDate="2019-04-24"
           url="https://t.me/another_way_out"
-          stack={false}
-        />
-        <ProjectCard
-          title="DN Journey Blog"
-          description="Blog about traveling, nomading and related experiences."
-          launchDate="2021-01-15"
-          url="https://dnjourney.com"
-          stack={false}
-        />
-        <ProjectCard
-          title="Coding YouTube channel"
-          description="YouTube channel about web development, general programming and other tech related topics."
-          launchDate="2021-02-04"
-          url="https://www.youtube.com/channel/UCqgoEzNIMYpCQNEGxawx_6w"
           stack={false}
         />
       </div>

@@ -4,31 +4,13 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Projects from "../components/projects"
 
 class BlogIndex extends React.Component {
   render() {
     const { data, pageContext } = this.props
     const siteTitle = data.site.siteMetadata.title
-    const posts = data.allMarkdownRemark.edges
-
-    const textClass = {
-      making: "text-indigo-800",
-      personal: "text-gray-800",
-      dev: "text-yellow-800",
-    }
-
-    const bgClass = {
-      making: "bg-indigo-100",
-      personal: "bg-gray-100",
-      dev: "bg-yellow-100",
-    }
-
-    const borderClass = {
-      making: "border-indigo-400",
-      personal: "border-gray-400",
-      dev: "border-yellow-400",
-    }
+    const makingBlogPosts = data.makingBlogPosts.edges
+    const travelPosts = data.travelPosts.edges
 
     return (
       <Layout
@@ -38,9 +20,10 @@ class BlogIndex extends React.Component {
       >
         <SEO title="Main page" />
         <Bio lang={pageContext.langKey} />
-        <Projects />
-        <h2 className="text-xl mt-0 mb-3 font-bold">Latest blog posts:</h2>
-        {posts.map(({ node }) => {
+        <h2 className="text-xl mt-20 mb-3 font-bold">
+          Posts about indie making:
+        </h2>
+        {makingBlogPosts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <article className="mb-5" key={node.fields.slug}>
@@ -53,14 +36,27 @@ class BlogIndex extends React.Component {
                     {title}
                   </Link>
                 </h3>
-                <span
-                  className={`mr-3 px-2 inline-flex text-xs leading-5 font-semibold rounded-sm border
-                          ${borderClass[node.frontmatter.category]}
-                          ${bgClass[node.frontmatter.category]}
-                          ${textClass[node.frontmatter.category]}`}
-                >
-                  {node.frontmatter.category}
-                </span>
+                <small>{node.frontmatter.date}</small>
+              </header>
+            </article>
+          )
+        })}
+        <h2 className="text-xl mt-20 mb-3 font-bold">
+          Posts about traveling and digital nomading:
+        </h2>
+        {travelPosts.map(({ node }) => {
+          const title = node.frontmatter.title || node.fields.slug
+          return (
+            <article className="mb-5" key={node.fields.slug}>
+              <header>
+                <h3 className="mt-3 mb-0">
+                  <Link
+                    className="text-lg font-bold shadow-none font-text"
+                    to={`${node.fields.slug}`}
+                  >
+                    {title}
+                  </Link>
+                </h3>
                 <small>{node.frontmatter.date}</small>
               </header>
             </article>
@@ -80,11 +76,13 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(
+    makingBlogPosts: allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {
         fields: { langKey: { eq: "en" } }
-        frontmatter: { slug: { ne: "cost-of-living-in-bali" } }
+        frontmatter: {
+          category: { eq: "making" }
+        }
       }
     ) {
       edges {
@@ -97,7 +95,29 @@ export const pageQuery = graphql`
             date(formatString: "DD.MM.YYYY")
             title
             description
-            category
+          }
+        }
+      }
+    }
+    travelPosts: allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: {
+        fields: { langKey: { eq: "en" } }
+        frontmatter: {
+          category: { eq: "travel" }
+        }
+      }
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            date(formatString: "DD.MM.YYYY")
+            title
+            description
           }
         }
       }

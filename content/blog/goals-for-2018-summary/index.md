@@ -4,6 +4,7 @@ date: "2019-01-05 12:00"
 description: "My final reflection on the goals for 2018 year"
 slug: goals-for-2018-summary
 category: personal
+featured: images/goal-image.jpg
 ---
 
 The year is over and it's perfect time to reflect on goals and set the new ones.

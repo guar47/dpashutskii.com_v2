@@ -2,37 +2,20 @@ import React from "react"
 import { Link } from "gatsby"
 import RussiaFlagIcon from "../../content/assets/icons/russia-icon.svg"
 import USFlagIcon from "../../content/assets/icons/us-icon.svg"
-
-import { rhythm } from "../utils/typography"
-
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
     const ruPath = `${__PATH_PREFIX__}/ru/`
-    const rootPath = `${__PATH_PREFIX__}/`
     let header
 
-    if (location.pathname === rootPath) {
+    if (location.pathname === ruPath) {
       header = (
         <div className="flex items-center justify-between">
           <h1 className="block my-0 text-4xl font-black">
-            <Link className="no-underline shadow-none" to={`/`}>
-              {title}
-            </Link>
-          </h1>
-          <a
-            href={`${__PATH_PREFIX__}/ru/`}
-            className="flex items-center justify-center no-underline shadow-none"
-          >
-            <RussiaFlagIcon width={30} height={30} />
-          </a>
-        </div>
-      )
-    } else if (location.pathname === ruPath) {
-      header = (
-        <div className="flex items-center justify-between">
-          <h1 className="block my-0 text-4xl font-black">
-            <Link className="no-underline shadow-none" to={`/ru/`}>
+            <Link
+              className="no-underline shadow-none text-gray-800 hover:text-blue-800"
+              to={`/ru/`}
+            >
               {title}
             </Link>
           </h1>
@@ -46,31 +29,47 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <div className="mt-0 mb-3 text-4xl font-black">
-          <Link
-            className="text-2xl no-underline shadow-none font-headers"
-            to={this.props.lang === "en" ? `/` : `/ru/`}
-          >
-            {title}
-          </Link>
+        <div className="flex items-center justify-between">
+          <h1 className="block my-0 text-2xl font-black">
+            <Link
+              className="no-underline shadow-none text-gray-800 hover:text-blue-800"
+              to={`/`}
+            >
+              {title}
+            </Link>
+          </h1>
+          <div className="hidden items-center sm:flex">
+            <Link
+              className="no-underline font-semibold shadow-none text-gray-800 hover:text-blue-800 mr-5"
+              to={`/blog`}
+            >
+              Blog
+            </Link>
+            <Link
+              className="no-underline font-semibold shadow-none text-gray-800 hover:text-blue-800 mr-20"
+              to={`/projects`}
+            >
+              Projects
+            </Link>
+            <a
+              href={`${__PATH_PREFIX__}/ru/`}
+              className="flex items-center justify-center no-underline shadow-none"
+            >
+              <RussiaFlagIcon width={30} height={30} />
+            </a>
+          </div>
         </div>
       )
     }
 
     return (
       <React.Fragment>
-        <div
-          className="max-w-3xl mx-auto"
-          style={{
-            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-          }}
-        >
-          <header className="pb-5">{header}</header>
-          <main>{children}</main>
-          <footer className="mt-20">
-            © {new Date().getFullYear()}, Built with
-            {` `}
-            <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <div className="p-4">
+          <header className="pb-5 sm:px-10">{header}</header>
+          <main className="max-w-3xl mx-auto">{children}</main>
+          <footer className="mt-20 max-w-3xl mx-auto text-center">
+            © {new Date().getFullYear()}, Built with ❤️ somewhere in the world
+            🌏
           </footer>
         </div>
       </React.Fragment>

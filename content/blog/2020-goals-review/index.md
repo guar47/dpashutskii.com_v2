@@ -73,7 +73,7 @@ Apart from programming, I've been bouncing around different areas of learning th
 
 I've been setting the goal "to write more" for the recent 3 years and most of the years I failed. I am still not sure about the reasons but I can't fit it into my routine. I wrote something during the year but it's a very small amount. So far my most successful writing experience is my [telegram channel in Russian](https://t.me/another_way_out). But even there I am not so much active.
 
-Apart from that, I have this blog and [travel blog](https://dnjourney.com/) but they are pretty much empty. It seems I'm enjoying tweaking and developing a blog more than actually write in it.
+Apart from that, I have this blob but it is pretty much empty. It seems I'm enjoying tweaking and developing a blog more than actually write in it.
 
 This year is going to be my last year when I'll try to pursue writing. If I fail this year I'll drop these attempts. It won't be a necessarily bad thing, it'll just mean it's not for me.
 

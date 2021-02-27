@@ -49,18 +49,10 @@ const BioRu = props => {
       </div>
       <div className="mt-5 mb-2">
         Я путешествую по миру, живу в разных местах планеты и работаю онлайн. Об
-        этом я рассказываю в этом блоге,{" "}
+        этом я рассказываю в этом блоге и{" "}
         <a href="https://t.me/another_way_out" target="_blank" rel="noreferrer">
-          телеграм канале
+          телеграм канале.
         </a>{" "}
-        и в{" "}
-        <a
-          href="https://instagr.am/another_wayout"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Instagram.
-        </a>
         <div className="mt-3">
           <span role="img" aria-label="Fire">
             📍

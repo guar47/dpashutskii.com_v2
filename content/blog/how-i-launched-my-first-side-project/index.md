@@ -4,6 +4,7 @@ date: "2020-05-04 12:40"
 description: "My story of launching my first project and involving myself to makers community"
 slug: how-i-launched-my-first-side-project
 category: making
+featured: images/arcade-hub-screenshot.png
 ---
 
 As a developer, I always could create things, but I didn't. Not sure about the reasons though, I probably was short on time, or don't have a good enough idea or just was too lazy.

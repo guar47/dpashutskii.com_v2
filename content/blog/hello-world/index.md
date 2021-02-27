@@ -4,6 +4,7 @@ date: "2020-01-25 22:12"
 description: "My first post on the new old blog"
 slug: hello-world
 category: dev
+featured: images/begin-image.jpg
 ---
 
 This is my first post on my new old blog. Hi ✌️

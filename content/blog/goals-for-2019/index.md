@@ -4,6 +4,7 @@ date: "2019-01-16 12:00"
 description: "My goals for 2019 year"
 slug: goals-for-2019
 category: personal
+featured: images/goal-image.jpg
 ---
 
 Last year I wrote the goals for the whole year and it helped me a lot during 2018. I also wrote [the review on it](https://dpashutskii.com/goals-for-2018-summary/) at the end of the year and I was pretty much satisfied with the results.
