@@ -9,6 +9,8 @@ import JavascriptIcon from "../../content/assets/icons/javascript-icon.svg"
 import RubyIcon from "../../content/assets/icons/ruby-icon.svg"
 import RailsIcon from "../../content/assets/icons/rails-icon.svg"
 import PostgresIcon from "../../content/assets/icons/postgresql-icon.svg"
+import PythonIcon from "../../content/assets/icons/python-icon.svg"
+import DjangoIcon from "../../content/assets/icons/django-icon.svg"
 
 const ProjectCard = props => {
   const data = useStaticQuery(graphql`
@@ -31,6 +33,15 @@ const ProjectCard = props => {
           }
         }
       }
+      nextPlaceImage: file(
+        absolutePath: { regex: "/nextplace-screenshot.png/" }
+      ) {
+        childImageSharp {
+          fixed(width: 350, height: 250) {
+            ...GatsbyImageSharpFixed
+          }
+        }
+      }
     }
   `)
 
@@ -39,6 +50,7 @@ const ProjectCard = props => {
   const imageUrls = {
     "Arcade Hub": data.arcadeHubImage.childImageSharp.fixed,
     "Learning Story": data.learningStoryImage.childImageSharp.fixed,
+    Nextplace: data.nextPlaceImage.childImageSharp.fixed,
   }
 
   const stackElements = {
@@ -79,6 +91,30 @@ const ProjectCard = props => {
           height={50}
         />
         <RailsIcon
+          className="text-gray-800 ml-2 border border-black rounded p-1"
+          width={50}
+          height={50}
+        />
+        <PostgresIcon
+          className="text-gray-800 ml-2 border border-black rounded p-1"
+          width={50}
+          height={50}
+        />
+        <JavascriptIcon
+          className="text-gray-800 ml-2 border border-black rounded p-1"
+          width={50}
+          height={50}
+        />
+      </div>
+    ),
+    "Nextplace": (
+      <div className="flex">
+        <PythonIcon
+          className="text-gray-800 border border-black rounded p-1"
+          width={50}
+          height={50}
+        />
+        <DjangoIcon
           className="text-gray-800 ml-2 border border-black rounded p-1"
           width={50}
           height={50}

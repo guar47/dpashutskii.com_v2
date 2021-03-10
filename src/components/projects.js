@@ -23,6 +23,13 @@ const Projects = () => {
           url="https://getlearningstory.com"
           stack={true}
         />
+        <ProjectCard
+          title="Nextplace"
+          description="Website about visas for digital nomads, financial independant and other long-term expats"
+          launchDate={"2021-03-10"}
+          url="https://nextplaceto.com"
+          stack={true}
+        />
         <h3 className="text-xl mt-5 mb-0 font-bold">Non tech:</h3>
         <ProjectCard
           title="This Blog"
