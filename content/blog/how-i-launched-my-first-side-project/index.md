@@ -53,7 +53,7 @@ Depending on your stack but TailwindCSS is a very good solution especially with 
 
 I finally finished and launched it, what's now?
 
-Since it was a test project and I wanted to learn on my mistakes so I decided to try marketing as well. I know nothing on that topic, so I went through the pretty standard process that I've seen in makers communities: [Product Hunt](https://www.notion.so/Blog-e31acdb56c034ce7bfcca326e4f00f6c), [Reddit](https://www.reddit.com/r/AppleArcade/comments/fjytnx/ive_created_arcade_hub_to_list_all_apple_arcade/), [Hacker News](https://www.notion.so/Blog-e31acdb56c034ce7bfcca326e4f00f6c), [Twitter](https://twitter.com/ArcadeHubTweets), and a little bit on [IndieHackers](https://www.indiehackers.com/product/arcade-hub) and [Makerlog](https://getmakerlog.com/products/arcade-hub). My hopes were on PH and Reddit, gaming projects seem not so popular on PH, but Reddit fits perfectly.
+Since it was a test project and I wanted to learn on my mistakes so I decided to try marketing as well. I know nothing on that topic, so I went through the pretty standard process that I've seen in makers communities: [Product Hunt](https://producthunt.com/), [Reddit](https://www.reddit.com/r/AppleArcade/comments/fjytnx/ive_created_arcade_hub_to_list_all_apple_arcade/), [Hacker News](https://news.ycombinator.com), [Twitter](https://twitter.com/ArcadeHubTweets), and a little bit on [IndieHackers](https://www.indiehackers.com/product/arcade-hub) and [Makerlog](https://getmakerlog.com/products/arcade-hub). My hopes were on PH and Reddit, gaming projects seem not so popular on PH, but Reddit fits perfectly.
 
 I found the niche community for the project (/r/AppleArcade) and post about my project. For such a small community I got around 75 votes which were one of the most popular topics on this subreddit. And most importantly I got my first traffic and amazing feedback. People find my project very simple and I thought it's going to be a downside of it but everyone prises how simple it is. Probably people tired of complex web-apps doing everything and my one-purpose app turns out very refreshing. That was insightful. I also got a lot of ideas on how to expand the project further.
 
@@ -86,6 +86,6 @@ Let me know if you have any questions. I'm always willing to help!
 
 ---
 
-PS. I'm now building my second project and it's about learning in public. I'm starting MVP with the purpose of learning programming. I want to expand the ideas of [100DaysOfCode](https://www.notion.so/Blog-e31acdb56c034ce7bfcca326e4f00f6c) and similar ones and present a good platform for learning in public and build a good community.
+PS. I'm now building my second project and it's about learning in public. I'm starting MVP with the purpose of learning programming. I want to expand the ideas of [100DaysOfCode](https://www.100daysofcode.com/) and similar ones and present a good platform for learning in public and build a good community.
 
 Very excited to present it in the future!

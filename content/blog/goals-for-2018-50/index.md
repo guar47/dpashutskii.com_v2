@@ -37,7 +37,7 @@ still I can improve a lot.
 First of all, I can start by increasing my hourly rate, it’ll give me even more stability. Besides I really want to find a long-term client with React, because I like this lib a lot, so it would be great to work
 with it on a daily basis.
 
-In case someone is interested my profile is [here](https://www.upwork.com/freelancers/~01e52252789be044c5).
+In case someone is interested my profile is [here](https://upwork.com/o/profiles/users/~01e52252789be044c5/).
 
 ---
 
