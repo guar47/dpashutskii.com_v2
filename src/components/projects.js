@@ -1,17 +1,4 @@
 import React from "react"
-import Image from "gatsby-image"
-import NodeJsIcon from "../../content/assets/icons/nodejs-icon.svg"
-import MongoDbIcon from "../../content/assets/icons/mongodb-icon.svg"
-import ExpressIcon from "../../content/assets/icons/express-icon.svg"
-import ReactIcon from "../../content/assets/icons/react-icon.svg"
-import JavascriptIcon from "../../content/assets/icons/javascript-icon.svg"
-import RubyIcon from "../../content/assets/icons/ruby-icon.svg"
-import RailsIcon from "../../content/assets/icons/rails-icon.svg"
-import PostgresIcon from "../../content/assets/icons/postgresql-icon.svg"
-import PythonIcon from "../../content/assets/icons/python-icon.svg"
-import DjangoIcon from "../../content/assets/icons/django-icon.svg"
-
-import ProjectCard from "./project-card"
 
 const Projects = () => {
   return (
