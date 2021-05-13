@@ -22,7 +22,7 @@ const Bio = props => {
         <Image
           fixed={data.avatar.childImageSharp.fixed}
           alt="dmitrii pashutskii photo"
-          className="mr-2 rounded-md hover:animate-bounce"
+          className="mr-2 rounded-md hover:animate-spin"
           imgStyle={{ borderRadius: `25%` }}
         />
         <div>

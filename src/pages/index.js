@@ -30,7 +30,7 @@ class BlogIndex extends React.Component {
               <header>
                 <h3 className="mt-2 mb-0">
                   <Link
-                    className="text-lg font-semibold shadow-none text-black"
+                    className="text-lg font-semibold shadow-none text-black hover:text-blue-800"
                     to={`${node.fields.slug}`}
                   >
                     {title}
@@ -51,7 +51,7 @@ class BlogIndex extends React.Component {
               <header>
                 <h3 className="mt-2 mb-0">
                   <Link
-                    className="text-lg font-semibold shadow-none text-black"
+                    className="text-lg font-semibold shadow-none text-black hover:text-blue-800"
                     to={`${node.fields.slug}`}
                   >
                     {title}
