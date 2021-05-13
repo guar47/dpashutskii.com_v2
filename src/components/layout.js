@@ -29,33 +29,39 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-between font-headers">
           <h1 className="block my-0 text-2xl font-black">
             <Link
-              className="no-underline shadow-none text-gray-800 hover:text-blue-800"
+              className="sm:hidden no-underline shadow-none text-gray-800 hover:text-blue-800"
               to={`/`}
             >
-              {title}
+              dp
+            </Link>
+            <Link
+              className="hidden sm:block no-underline shadow-none text-gray-800 hover:text-blue-800"
+              to={`/`}
+            >
+              dmitrii pashutskii
             </Link>
           </h1>
-          <div className="hidden items-center sm:flex">
+          <div className="items-center flex">
             <Link
-              className="no-underline font-semibold shadow-none text-gray-800 hover:text-blue-800 mr-5"
+              className="no-underline hover:underline font-semibold shadow-none text-gray-800 hover:text-blue-800 mr-5"
               to={`/blog`}
             >
-              Blog
+              blog.
             </Link>
             <Link
-              className="no-underline font-semibold shadow-none text-gray-800 hover:text-blue-800 mr-20"
+              className="no-underline hover:underline font-semibold shadow-none text-gray-800 hover:text-blue-800 mr-5"
               to={`/projects`}
             >
-              Projects
+              projects.
             </Link>
             <a
               href={`${__PATH_PREFIX__}/ru/`}
-              className="flex items-center justify-center no-underline shadow-none"
+              className="flex items-center justify-center no-underline shadow-none border-gray-400 border-2 hover:border-blue-800 rounded-full"
             >
-              <RussiaFlagIcon width={30} height={30} />
+              <RussiaFlagIcon width={20} height={20} />
             </a>
           </div>
         </div>
@@ -67,8 +73,8 @@ class Layout extends React.Component {
         <div className="p-4">
           <header className="pb-5 sm:px-10">{header}</header>
           <main className="max-w-3xl mx-auto">{children}</main>
-          <footer className="mt-20 max-w-3xl mx-auto text-center">
-            © {new Date().getFullYear()}, Built with ❤️ somewhere in the world
+          <footer className="mt-20 max-w-3xl mx-auto text-center font-headers">
+            © {new Date().getFullYear()}, built with ❤️ somewhere in the world
             🌏
           </footer>
         </div>

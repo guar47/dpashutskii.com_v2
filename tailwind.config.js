@@ -6,8 +6,13 @@ module.exports = {
         headers: ["Montserrat", "sans-serif"],
         text: ["Merriweather", "Georgia", "serif"],
       },
+      animation: ["hover", "focus"],
     },
   },
-  variants: {},
+  variants: {
+    extend: {
+      animation: ["hover", "focus"],
+    },
+  },
   plugins: [],
 }

@@ -20,17 +20,17 @@ class BlogIndex extends React.Component {
       >
         <SEO title="Main page" />
         <Bio lang={pageContext.langKey} />
-        <h2 className="text-xl mt-20 mb-3 font-bold">
-          Posts about indie making:
+        <h2 className="text-2xl mt-10 mb-3 font-black">
+          indie making:
         </h2>
         {makingBlogPosts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
-            <article className="mb-5" key={node.fields.slug}>
+            <article className="mb-3 font-headers" key={node.fields.slug}>
               <header>
-                <h3 className="mt-3 mb-0">
+                <h3 className="mt-2 mb-0">
                   <Link
-                    className="text-lg font-bold shadow-none font-text"
+                    className="text-lg font-semibold shadow-none text-black"
                     to={`${node.fields.slug}`}
                   >
                     {title}
@@ -41,17 +41,17 @@ class BlogIndex extends React.Component {
             </article>
           )
         })}
-        <h2 className="text-xl mt-20 mb-3 font-bold">
-          Posts about traveling and digital nomading:
+        <h2 className="text-2xl mt-5 mb-3 font-black">
+          traveling and digital nomad:
         </h2>
         {travelPosts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
-            <article className="mb-5" key={node.fields.slug}>
+            <article className="mb-3 font-headers" key={node.fields.slug}>
               <header>
-                <h3 className="mt-3 mb-0">
+                <h3 className="mt-2 mb-0">
                   <Link
-                    className="text-lg font-bold shadow-none font-text"
+                    className="text-lg font-semibold shadow-none text-black"
                     to={`${node.fields.slug}`}
                   >
                     {title}
@@ -80,9 +80,7 @@ export const pageQuery = graphql`
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {
         fields: { langKey: { eq: "en" } }
-        frontmatter: {
-          category: { eq: "making" }
-        }
+        frontmatter: { category: { eq: "making" } }
       }
     ) {
       edges {
@@ -103,9 +101,7 @@ export const pageQuery = graphql`
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {
         fields: { langKey: { eq: "en" } }
-        frontmatter: {
-          category: { eq: "travel" }
-        }
+        frontmatter: { category: { eq: "travel" } }
       }
     ) {
       edges {
