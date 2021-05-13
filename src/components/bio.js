@@ -8,65 +8,36 @@ const Bio = props => {
     query BioQuery {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
         childImageSharp {
-          fixed(width: 150, height: 150) {
+          fixed(width: 75, height: 75) {
             ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      site {
-        siteMetadata {
-          author
-          social {
-            twitter
           }
         }
       }
     }
   `)
 
-  const { author } = data.site.siteMetadata
   return (
-    <div className="mb-7">
-      <div className="flex items-center mb-2">
+    <div className="mb-7 font-headers font-medium">
+      <div className="flex items-center mb-4">
         <Image
           fixed={data.avatar.childImageSharp.fixed}
-          alt={author}
-          className="mr-2 rounded-md"
+          alt="dmitrii pashutskii photo"
+          className="mr-2 rounded-md hover:animate-bounce"
           imgStyle={{ borderRadius: `25%` }}
         />
-        <span className="text-2xl font-black font-headers">
-          Hi{" "}
-          <span role="img" aria-label="Victory hand">
-            ✌️
-          </span>{" "}
-          I'm Dmitrii
-        </span>
+        <div>
+          <span className="text-2xl font-black font-headers">
+            hi, my name is dmitrii.
+          </span>
+          <Social lang={props.lang} />
+        </div>
       </div>
-      <div className="">
-        I write code, travel the world,{" "}
-        <a
-          href="https://www.youtube.com/channel/UCtZd4Chy6nqjX1X06ypzEgw"
-          target="_blank"
-          rel="noreferrer"
-        >
-          make videos
-        </a>
-        , and{` `}
-        <Link to={`/projects`}>hack side projects. </Link>
-        <span role="img" aria-label="Fire">
-          💻 🧳 🔥
-        </span>{" "}
-      </div>
-      <div className="mt-5">
-        In 2020-2021 I am making{" "}
-        <a href="https://12xstartup.com/" target="_blank" rel="noreferrer">
-          12 startups in 12 months
-        </a>{" "}
-        in public and share my experience.
-      </div>
-      <div className="mt-7">
-        <Social lang={props.lang} />
-      </div>
+      <p className="mb-0">
+        i am a software enigeneer trying to be an indie hacker and youtuber.
+      </p>
+      <p className="m-0">
+        i write code, travel the world, make videos, and hack indie projects.
+      </p>
     </div>
   )
 }

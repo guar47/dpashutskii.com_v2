@@ -39,7 +39,7 @@ class BlogPostTemplate extends React.Component {
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr className="h-px" />
-          <footer className="mt-5 mb-10">
+          <footer className="mt-5 mb-10 flex justify-center">
             <Social />
           </footer>
         </article>
