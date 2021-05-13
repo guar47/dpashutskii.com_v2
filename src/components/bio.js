@@ -27,7 +27,7 @@ const Bio = props => {
         />
         <div>
           <span className="text-2xl font-black font-headers">
-            hi, my name is dmitrii.
+            Hey, my name is Dmitrii.
           </span>
           <Social lang={props.lang} />
         </div>
