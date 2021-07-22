@@ -13,7 +13,7 @@
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-canonical-urls": "^2.3.4",
     "gatsby-plugin-feed": "^2.3.23",
-    "gatsby-plugin-google-analytics": "^2.1.29",
+    "gatsby-plugin-google-gtag": "^3.10.0",
     "gatsby-plugin-i18n": "^1.0.1",
     "gatsby-plugin-manifest": "^2.2.31",
     "gatsby-plugin-netlify": "^2.5.0",
