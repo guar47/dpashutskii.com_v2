@@ -97,6 +97,12 @@ module.exports = {
     `gatsby-plugin-twitter`,
     "gatsby-plugin-simple-analytics",
     {
+      resolve: `gatsby-plugin-plausible`,
+      options: {
+        domain: `dpashutskii.com`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
         siteUrl: `https://dpashutskii.com`,
