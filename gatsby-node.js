@@ -10,6 +10,20 @@ exports.createPages = async ({ graphql, actions }) => {
     Language: "ru",
   })
 
+  createRedirect({
+    fromPath: "/bali-accommodation/",
+    toPath: "https://slowandsteadyblog.com/blog/accommodation-in-bali",
+    isPermanent: true,
+    force: true
+  })
+
+  createRedirect({
+    fromPath: "/cost-of-living-bali/",
+    toPath: "https://slowandsteadyblog.com/blog/cost-of-living-bali",
+    isPermanent: true,
+    force: true
+  })
+
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
   const result = await graphql(
     `
