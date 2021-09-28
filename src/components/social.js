@@ -61,7 +61,7 @@ const Social = props => {
           />
         </a>
         <a
-          href={`https://instagram.com/d_pashutskii`}
+          href={`https://instagram.com/dmitrii_pashutskii`}
           target="_blank"
           rel="noopener noreferrer"
           className="no-underline shadow-none"

@@ -66,7 +66,7 @@ As usual, I participate in [Reading Challenge 2019](https://www.goodreads.com/us
 ---
 
 🧳 **Travel content:**
-Our travel lives lead us (Me and my wife) to create content about it, so right now it's the main project I have. In particular it's [YouTube channel](https://www.youtube.com/channel/UCtZd4Chy6nqjX1X06ypzEgw) and [Instagram account](https://www.instagram.com/d_pashutskii/). We don't have a huge success with it so far, but we just started with zero knowledge to any of that so I think it's alright.
+Our travel lives lead us (Me and my wife) to create content about it, so right now it's the main project I have. In particular it's [YouTube channel](https://www.youtube.com/dmitriipashutskii) and [Instagram account](https://www.instagram.com/dmitrii_pashutskii/). We don't have a huge success with it so far, but we just started with zero knowledge to any of that so I think it's alright.
 During the year I wanna improve my knowledge about filmmaking and video editing. And also about photography (theory, equipment, practice parts). I have plans to improve the equipment as well. At least to buy a new camera (perhaps a mirrorless one).
 We also gonna launch our site in a few months which will be kinda portfolio + blog. So We're gonna work on that as well.
 In addition, it would be great to improve marketing skills at least a little to know how to promote your content.
