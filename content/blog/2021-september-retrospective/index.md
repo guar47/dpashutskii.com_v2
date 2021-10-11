@@ -13,8 +13,6 @@ The main goal is to reflect and better understand how productive was the time in
 
 Since this is the first time I'll also describe a bit more about my projects and what I'm working on.
 
----
-
 ## ⏰ Time
 
 Let's start with time management. I track all my work and side projects time so I can easily answer the question "Where all the time go?!". My team uses Harvest at work and I use it for invoicing (as a part-time contractor) as well. For personal projects, I use Toggl Track with all my projects.
@@ -30,8 +28,6 @@ YouTube took most of my time in September. 
 **"Slowandsteady"** is the name of my new travel blog that I've been planning to start since the beginning of time. Finally, I launched it.
 
 **"Mail digest"** is the main side project I'm working on right now and I should have spend more time on it, to be honest. I'll try to focus on it in October.
-
----
 
 ## 📺 YouTube
 
@@ -56,12 +52,12 @@ I had two great milestones this month. I reached **500 subscribers** on the Engl
 Below are the main stats on the channel for September.
 
 🇬🇧English Channel:
-
 - ⭐️ +46 new subscribers - total 515 (**+92%** from August)
 - ⭐️ +3210 views - total 75k (-6% from August)
 - ⭐️ +188.3 hours watch time - total 4500 (**+4%** from August)
 - ⭐️ 6.8% Impression click through rate (**+0.5** from August)
 - ⭐️ 34.1% Average view duration (**+4** from August)
+
 
 🇷🇺Russian Channel:
 - ⭐️ +113 new subscribers - total 515 (**+49%** from August)
@@ -69,8 +65,6 @@ Below are the main stats on the channel for September.
 - ⭐️ +460.8 hours watch time - total 1500 (**+68%** from August)
 - ⭐️ 5.1% Impression click through rate (-0.8 from August)
 - ⭐️ 41.2% Average view duration (-6.9 from August)
-
----
 
 ## 👨‍💻 Side projects
 
@@ -95,8 +89,6 @@ Another project that take time this month was my travel blog. I am not planning 
 I build it with NextJS, using tailwind-blog-template as a foundation. It's my first blog on NextJS after using Gatsby for a while and I am quite happy with this framework. 
 
 The only thing I still need to fix is image optimization. Images take too long to load and there are no blurry placeholders as it was by default with Gatsby.
-
----
 
 ## ✍️ Writing and social media
 
@@ -133,8 +125,6 @@ I was thinking about ditching Instagram for a while so I am okay about what happ
 I have Twitter but I don't use it much except scrolling it for a few minutes during the day. 
 
 I post there some news or my discoveries but nothing serious. Twitter is an amazing tool for building in public so I'll be using it more in the future.
-
----
 
 ## 💰 Money and FIRE
 
