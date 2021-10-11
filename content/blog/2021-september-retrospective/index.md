@@ -7,8 +7,6 @@ slug: 2021-september-retrospective
 category: retrospective
 ---
 
-# September 2021  - Retrospective
-
 I've decided to post monthly retrospectives with reflections on my life goals and personal projects. I am still not sure what format to follow so I'll experiment on the way.
 
 The main goal is to reflect and better understand how productive was the time in the last month. 
