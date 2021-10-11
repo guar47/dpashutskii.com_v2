@@ -25,7 +25,7 @@ Here is a detailed review of Toggl Track:
 
 YouTube took most of my time in September. 
 
-**"Slowandsteady"** is the name of my new travel blog that I've been planning to start since the beginning of time. Finally, I launched it.
+**["Slowandsteady"](https://slowandsteadyblog.com)** is the name of my new travel blog that I've been planning to start since the beginning of time. Finally, I launched it.
 
 **"Mail digest"** is the main side project I'm working on right now and I should have spend more time on it, to be honest. I'll try to focus on it in October.
 
@@ -35,7 +35,7 @@ One of my 2021 resolutions was to restore my YouTube channel and I did. I've had
 
 YouTube is quite a rewarding platform. Without many subscribers, I have a decent amount of views/engagement/new people met. Just because of my videos and it's awesome.
 
-I have two channels: the English channel and the Russian channel. I prepare the same content and record it in two languages and post it on different channels. I am still looking for my niche and trying to experiment with different topics. The main areas are travel, digital nomad lifestyle and remote work. Occasionally, I post something related to software development. 
+I have two channels: the [English channel](https://www.youtube.com/channel/UCtZd4Chy6nqjX1X06ypzEgw) and the [Russian channel](https://www.youtube.com/channel/UCqgoEzNIMYpCQNEGxawx_6w). I prepare the same content and record it in two languages and post it on different channels. I am still looking for my niche and trying to experiment with different topics. The main areas are travel, digital nomad lifestyle and remote work. Occasionally, I post something related to software development. 
 
 The whole motto of the channel is to learn programming and travel the world or be a nomad. Like me, yes. 😎 
 
@@ -84,7 +84,7 @@ I set the deadline date for MVP to the 1st of November and I hope I manage to at
 
 ### 🧳 SlowAndSteadyBlog
 
-Another project that take time this month was my travel blog. I am not planning to write in it yet. I wanted to publish it, so Google could start crawling my pages. I only have two articles but the blog itself looks good enough so I don't worry about it much. I'll let it soak for Google and come back to it later.
+Another project that take time this month was my [travel blog](https://slowandsteadyblog.com). I am not planning to write in it yet. I wanted to publish it, so Google could start crawling my pages. I only have two articles but the blog itself looks good enough so I don't worry about it much. I'll let it soak for Google and come back to it later.
 
 I build it with NextJS, using tailwind-blog-template as a foundation. It's my first blog on NextJS after using Gatsby for a while and I am quite happy with this framework. 
 
@@ -98,7 +98,7 @@ This post is one step to writing more to this blog and I'll come back to my trav
 
 ### ✉️ Telegram channel
 
-Another place where I write is my Russian telegram channel. In case you don't know it is similar to email newsletters but inside the messenger. People can follow your channel to read your posts and they can comment. 
+Another place where I write is my [Russian telegram channel](https://t.me/another_way_out). In case you don't know it is similar to email newsletters but inside the messenger. People can follow your channel to read your posts and they can comment. 
 
 There are no rules on what to post on your channel so every channel owner uses it differently. Some people share big posts there and others treat it as social media with short and frequent messages.
 
@@ -122,7 +122,7 @@ I figured it's a good sign to stop using this social media and focus on more lon
 
 I was thinking about ditching Instagram for a while so I am okay about what happened.
 
-I have Twitter but I don't use it much except scrolling it for a few minutes during the day. 
+I have [Twitter](https://twitter.com/guar47) but I don't use it much except scrolling it for a few minutes during the day. 
 
 I post there some news or my discoveries but nothing serious. Twitter is an amazing tool for building in public so I'll be using it more in the future.
 
@@ -175,13 +175,13 @@ I am considering buying Nintendo Switch though. I was a gamer my whole life and 
 
 ### 📚 Reading
 
-In September, I finished "The Simple Path to Wealth: Your road map to financial independence and a rich, free life" by J.L. Collins.
+In September, I finished ["The Simple Path to Wealth: Your road map to financial independence and a rich, free life" by J.L. Collins](https://www.goodreads.com/book/show/30646587-the-simple-path-to-wealth).
 
 It's an amazing book with an introduction to financial independence and investments. I would recommend reading it to anyone who wants to start this path. There are few criticisms of this book that is very focused on the US market and life in the US in general but I don't see it as a problem. 
 
 The author describes a lot of concepts that could work anywhere. Also, the US is one of the dominant markets for investments, so everyone is investing there anyway.
 
-Right now I am reading "Never Split the Difference: Negotiating As If Your Life Depended On It" by Chris Voss. 
+Right now I am reading ["Never Split the Difference: Negotiating As If Your Life Depended On It" by Chris Voss](https://www.goodreads.com/book/show/26156469-never-split-the-difference).
 
 I don' have an opinion on the book yet. It feels like one of these books that you enjoy reading but don't get to apply the knowledge from it in real life.
 
@@ -189,9 +189,9 @@ I've started using an app called 'Reading Notes". It scans your Kindle highlight
 
 ### 🎮 Video games
 
-I started September by playing Days Gone but got a little bit bored of repetitive quests of the game. Although, the vibe in the game is awesome. I enjoy this The Walking Dead type of atmosphere.
+I started September by playing [Days Gone](https://www.playstation.com/en-us/games/days-gone/) but got a little bit bored of repetitive quests of the game. Although, the vibe in the game is awesome. I enjoy this The Walking Dead type of atmosphere.
 
-Halfway through the month, I bought Persona 5 Royal on discount and completely drowned in the game. I am a huge fan of Japanese video games, especially JRPGs and this game is a gem of that genre. It is so addictive and enjoyable I am happy I picked it up. I already played around **15 hours** in it.
+Halfway through the month, I bought [Persona 5 Royal](https://store.playstation.com/en-us/product/UP0177-CUSA17416_00-PERSONA5R0000000/) on discount and completely drowned in the game. I am a huge fan of Japanese video games, especially JRPGs and this game is a gem of that genre. It is so addictive and enjoyable I am happy I picked it up. I already played around **15 hours** in it.
 
 ---
 
