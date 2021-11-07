@@ -39,7 +39,7 @@ It was a [collaborative video](https://youtu.be/KxLybkHGmAY) with my wife about 
 
 Let's dive into stats:
 
-### **🇬🇧 English Channel:**
+### 🇬🇧 English Channel:
 
 - ⭐️ +63 new subscribers - total on 04.11 - 580 (**+37%** from September) ✅⬆️
 - ⭐️ +3.8k views - total on 04.11 - 79.2k (**+19%** from September) ✅⬆️
