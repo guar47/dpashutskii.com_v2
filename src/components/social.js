@@ -24,7 +24,7 @@ const Social = props => {
         </a>
 
         <a
-          href={`https://www.youtube.com/channel/UCqgoEzNIMYpCQNEGxawx_6w`}
+          href={`https://www.youtube.com/c/DmitriiPashutskii`}
           target="_blank"
           rel="noopener noreferrer"
           className="no-underline shadow-none"
