@@ -1,139 +1,129 @@
 ---
-title: "Retrospective - October 2021"
-date: "2021-11-07 11:00"
-description: "Retrospective of what happened in October of 2021 and progress on my projects."
+title: "Retrospective - November 2021"
+date: "2021-12-13 13:00"
+description: "Retrospective of what happened during the November of 2021 and progress on my projects."
 featured: images/notepad.jpg
-slug: 2021-october-retrospective
+slug: 2021-november-retrospective
 category: retrospective
 ---
 
-October wasn't the most productive month. At the beginning of the month, I was away in Kyiv, Ukraine for my vacation. After I came back I got sick and was in bed for more than a week. I started doing something productive somewhere in the middle of the month.
+November was a super productive month. I still can't believe how many things you can get done in a month without even sacrificing your job. To be fair I work part-time but still.
 
-If you are curious about last month's retrospective where I explain the idea behind those posts, you can find it [here](https://dpashutskii.com/2021-september-retrospective/).
+## **⏰ Time**
 
-## ⏰ Time
+I spent 94 hours working on my job and 82 hours working on my side projects. It's making it a total of 176 productive hours in November. I am an ardent opponent of overworking so it's my limit. I would have never worked more than 180 hours per month and even this amount sounds a bit too much. But I am still happy I managed to set my routine the way I can achieve full potential. I can go tweak from here.
 
-In October I spend **68 hours** working at my main job and **40.5 hours** working on my side projects. It's actually a good result, considering I only have time during the second part of the month.
+Here is my time tracking report of 82 hours of side projects:
 
-Here is a review of where my "side project" time went:
+![Toggl November 2021 overview](./images/toggl-november-2021.png)
 
-![Toggl November overview](./images/toggle-november.png)
+Most of the time I spent on my main side project Taco digest. To be fair the project is already launched (you can check it out on [https://tacodigest.com](https://tacodigest.com/)). But it happened only in December so I won't spend too much time talking about it.
 
-What was a surprise for me is that writing last month's retrospective took me **5 hours**. I am still pretty bad at writing and the speed is slow. But from this month I've decided to put much less effort into it. I also have a template now so it should be much faster.
+21 hours on YouTube is exactly the amount I would love to spend on it and my posting schedule was perfect.
 
-An extra hour of blogging activity is my Telegram channel post.
-
-As I said last month I need to double the effort on my current side project and I did. The project is now much closer to launch.
-
-YouTube took **14 hours** and it's a pretty good result for the half of the month I've got. I usually try to reserve one hour in the morning for YouTube so it's somewhat accurate.
-
-I am quite happy with this month's results and I'm looking forward to what I can do in November.
+The learning section includes two things: the "Master of YouTube" course by Matt D'Avella and cards for my driving exam. I am going to get a driving license here in Georgia at the beginning of 2022. I am also happy that in November writing retrospective took me only 1:50 compared to 5 hours in October. It's not something I want to spend too many hours on. About two hours I spent on my Telegram channel. I am trying to be more regular with it. The downside that you can see on the graph that I had almost zero weekends and it's something I want to fix. I'll be working on maintaining the same routine but with two full weekend days.
 
 ## **📺 YouTube**
 
-Not much happened with my channel in October. Just a slow growth and it's normal.
+This month my posting schedule was perfect. I posted 4 videos, one per week and it's exactly my plan to maintain. I posted two videos on the Russian channel and two on the English one. It was videos about finding an apartment in Tbilisi and the cost of living in Tbilisi. One thing I started to regret a little was that I have two channels. It would be much easier and smarter to grow one channel and then add a second as the first one succeeded. I'm still thinking about this but now I don't want to drop neither of them. I decided to grow both channels to 1k subs and 4k watch hours to enable monetization and then decide. At least I'll see the picture with my RPM and can plan for the future. I don't do YouTube to make money but I still shouldn't forget about that part.
 
-During 14 hours I created and uploaded **two videos** - one on the [Russian channel](https://www.youtube.com/channel/UCqgoEzNIMYpCQNEGxawx_6w) and one on the [English one](https://www.youtube.com/channel/UCtZd4Chy6nqjX1X06ypzEgw).
+Let's dive into stats related to YouTube in November:
 
-It was a [collaborative video](https://youtu.be/KxLybkHGmAY) with my wife about 3 years of travelling and digital nomading.  What we learned during this period and some tips for the audience. The video wasn't a success on both channels although it performed a bit better on the Russian one.
+### 🇬🇧 English Channel (totals on 09.12):
 
-Let's dive into stats:
+- ⭐️ +59 new subscribers - total 653 (**-6%** from October) 🔵↕️
+- ⭐️ +3.7k views - total 83.5k (**-3%** from September) 🔵↕️
+- ⭐️ +223.2 hours watch time - total 5k (**-3%** from September) 🔵↕️
+- ⭐️ 5.8% Average Impression click through rate (-**0.8** from September) 🔴⬇️
+- ⭐️ 34.8% Average percentage viewed (+0 from September) 🔵↕️
 
-### 🇬🇧 English Channel:
+### 🇷🇺 Russian Channel (totals on 09.12):
 
-- ⭐️ +63 new subscribers - total on 04.11 - 580 (**+37%** from September) ✅⬆️
-- ⭐️ +3.8k views - total on 04.11 - 79.2k (**+19%** from September) ✅⬆️
-- ⭐️ +229.6 hours watch time - total 4.7k (**+22%** from September) ✅⬆️
-- ⭐️ 6.6% Average Impression click through rate (**-0.2** from September) 🔵↕️
-- ⭐️ 34.8% Average percentage viewed (**+7** from September) ✅⬆️
+- ⭐️ +185 new subscribers - total 592 (+2**63%** from October) ✅⬆️⬆️
+- ⭐️ +8.2k views - total 28.8k (+138**%** from September) ✅⬆️⬆️
+- ⭐️ +769.3 hours watch time - total 2.7k (+118**%** from September) ✅⬆️⬆️
+- ⭐️ 7.1% Average Impression click through rate (+**0.7** from September) ✅⬆️
+- ⭐️ 49.8% Average percentage viewed (+1.9 from September) ✅⬆️
 
-### 🇷🇺 Russian Channel:
+As you can see, the Russian channel is growing soo much faster in and I still don't have a real explanation for that. It's probably a cumulative effect of those:
 
-- ⭐️ +51 new subscribers - total on 04.11 - 379 (**-55%** from September) 🔴⬇️
-- ⭐️ +3.5k views - total on 04.11 - 18.8k (**-36%** from September) 🔴⬇️
-- ⭐️ +352.2 hours watch time - total 1.8k (-**24%** from September) 🔴⬇️
-- ⭐️ 6.4% Average Impression click through rate (**+1.3** from September) ✅⬆️
-- ⭐️ 47.7% Average percentage viewed (**+6.5** from September) ✅⬆️
+- less competition
+- videos about Georgia are much more interesting for a Russian audience
+- I am a native speaker which means I can add some inside jokes and little details
+
+I can't explain the difference in "average click-through rate" though. I use the same thumbnails and titles for both channels. Less competition could be the reason. For example, there were around 4-5 good videos in English about the Cost of living in Georgia and none in Russian.
+
+It's funny because making videos in Russian is also SO MUCH easier for me 🙂
+
+From other good YouTube news, I meet a person who's watching my videos outside. The guy approached me in the area where I live and asked if I'm the guy from the videos about Georgia. 😅 It was shocking because it's never happened to me before. Anyway, we talked a little about Tbilisi for expats and even meet again in a few days and chat more. So everything was great!
+
+Also, my Russian channel got a pretty good boost. One of the big Georgian bloggers shared my telegram post with video link. It got me 1.5k Telegram views of the post and a huge boost in video views.
+
+The same blogger is also starting his Telegram channel in English. He asked me if I can promote this channel on my English-speaking YouTube and he will promote me back. So I'll do this in my next video.
 
 ## **👨‍💻 Side projects**
 
 ### 🌮 Taco digest
 
-I am happy with the results I reached this month for the main project I'm working on. My wife also helps me with design so it's her achievement as well.
-We came much closer to launch and I am going to do it this month. There are a few critical bugs to solve. I am also still in the middle of a conversation with Google to increase their YouTube API quota. The default quota is ridiculously small and I can't launch with it.
-Besides, I want to launch this project with payment from day one. It will have a free tier but paid tier will be accessible as well. For that, I need to add a payment system which will be Paddle for the lack of alternatives in my country.
-Short overview from the linear on how the project is going. You can see that curve in October is much steep than before meaning I am making good progress.
-Oh and I deployed it on Heroku as well 🥳 Let's see if I can meet the deadline and launch it this month.
+We went with full power on [Taco digest](https://tacodigest.com/) because we wanted to launch it at the beginning of December and we did. The launch was not so good as I expected but still okay.
 
-![Screen Shot 2021-11-04 at 7.37.20 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/028bdb91-5580-415f-8c7d-483228347b50/Screen_Shot_2021-11-04_at_7.37.20_AM.png)
+In November, we finished all the main features we wanted to build and launched a landing page. Google is finally approved my YouTube API quota increase. Even Twitter launched their API v2 which I managed to get access to. For some reason, they always declined me access to their API v1. So I even started working on Twitter integration but it didn't get into the release version. It'll be ready soon.
 
-![Taco digest progress in November on Linear](./images/linear-november.png)
+We already closed our Linear project but you can see how we tripled the effort on it during the last months.
 
+![Taco v1 Linear project stats](./images/taco-linear-v1.png)
 
 ## **✍️ Writing**
 
-I want to get into writing but it is not my priority for now. I'm going to take the whole month somewhere next year and spend it on writing.
+I don't put much effort in my writing for now. The only things I write are these retrospectives, a few tweets and posts to my Telegram channel. I still didn't start with my travel/nomad content. I'll make some time for it in 2022.
 
-### ✉️ Telegram channel
+### Telegram channel
 
-I continue to write for my Russian Telegram channel (["AnotherWayOut")](https://t.me/another_way_out) but it's not a very prioritized task. It's a place where I enjoy writing in my native language and my replacement for Instagram. In October I published 5 posts and scheduled another 3 or 4. It took me one hour so it's a great result.
+I published 10 posts on my telegram channel, finally making it more/less consistent. I usually spend around one hour once in two weeks and write all the posts for the next two weeks and schedule them.
 
-A little summary:
+⭐️ As I said in the YouTube section, one of the bloggers in Georgia reposted my video on their channel and it gained me new Telegram subscribers. In November, I got from 248 to 271 adding 12 new subscribers.
 
-- ⭐️ Published **5 new posts**
-- ⭐️ **+8** new subscribers - total **246** on 04.11
+You can see the huge boost in views the day he shared my post:
 
-### ✉️ Email newsletter
-
-This month I was exploring another opportunity for writing. I want to find a place like my Telegram channel but for writing in English. After a little exploration, I realized that Telegram channels are pretty much dead in English. My conclusion was that the best place to write for an English audience is an email newsletter.
-
-For now, I only created and designed my newsletter page but hopefully, I'll start writing there soon. If you are curious here is the page: [https://newsletter.slowandsteadyblog.com/](https://newsletter.slowandsteadyblog.com/)
-
-I picked [getrevue.co](http://getrevue.co/) as a platform because it seems simple and it allows you to integrate your newsletter on your Twitter profile, which is cool.
+![Telegram stats November 2021](./images/telegram-stats-november-2021.png)
 
 ## **💰 Money and FIRE**
 
-I and my wife are rushing from one idea to another where we should live in the next year and further. We're waiting for Canada to open its immigration programs for 6 months already and nothing seems to be changing in that regard. We were considering many countries where we want to settle and wait for Canada. We even almost decide to go to Portugal on their D7 visa next year.
+Everything is stable with money and savings. We earned some income and contributed to investments. We have a new plan for the next year which affect our finances dramatically but I'll write about it later.
 
-But eventually, our goal of doing FIRE was the main point on staying in Georgia. We're quite happy here, at least for the next couple of years. While Canada is still closed, we decided to stay and focus on savings. Georgia is great for saving because it's a cheap country and we have a company with a 1% income tax here. You probably won't find smaller income tax anywhere in the world. They also allow you to get any foreign passive income tax-free such as dividends, royalty, capital gains etc.
+The FIRE number goal looks the same in the stats below but it's only because I adjusted the goal. I calculate it based on our annual spending from the last years. This month I added 3 more years to the table making the total goal bigger.
 
-In October, I was shifting my assets to Interactive brokers from my Russian bank and everything went smoothly. Even international transfer from Georgian bank is quite cheap. I was afraid that Wire transfer could take big fees on the road but it didn't.
-
-I still have some investments in my Russian account but they are down so I'll sell them later.
+Also, I am very happy to see that invested allocations are growing, and cash part is decreasing.
 
 **FIRE stats:**
 
-- ⭐️ I stand on **17.69%** towards my FIRE goal number.
-- ⭐️ My Net Worth growth **+13.7%** in September.
-- ⭐️ My current Net worth allocations: **37.37% invested + 65.65% in cash.**
-
-This was a great month of growth and increasing investment part with new broker.
+- ⭐️ I stand on **17.89%** towards my FIRE goal number.
+- ⭐️ My Net Worth grew **+12%** in November.
+- ⭐️ My current Net worth allocations: **42.97% invested + 58.12% in cash.**
 
 **Assets allocation:**
 
-- ⭐️ 35.3% S&P500 index fund
-- ⭐️ 23.62% VTI Total US Stock index fund
-- ⭐️ 16.98% NASDAQ index fund
-- ⭐️ 5.47% VXUS Total International Stock index fund (no US)
-- ⭐️ 9.66% Other stock and bonds
-- ⭐️ 8.90% Cryptocurrency
+- ⭐️ **29.36%** S&P500 index fund
+- ⭐️ **35.86%** VTI Total US Stock index fund
+- ⭐️ **13.53%** NASDAQ index fund
+- ⭐️ **7.30%** VXUS Total International Stock index fund (no US)
+- ⭐️ **7.15%** Other stock and bonds
+- ⭐️ **6.80%** Cryptocurrency
 
-I finally have my hands on these awesome Vanguard index funds and I moved everything there.
+We're increasing Vanguard funds and reducing old Russian ETFs. The goal is to completely remove Russian assets but it'll take some time. Especially for the ones in the red zone like gold funds and bonds.
 
-The reason why there are still so many in old funds is that my wife didn't move her assets yet.
+I'm quite happy with my 80% VTI + 20% VXUS strategy for the future and I'll stick with it. It excludes Crypto which I still don't know how much I want but around 5% is good.
 
-My current strategy will be dead simple 80% VTI + 20% VXUS. Yes, no bonds, huge part of stocks are US market. And crypto only what I already have, want to down it to 3-5% and then think about it.
+## **🎮 Reading and Entertainment**
 
-Right now I also considering real estate but I only learning so nothing happening there yet. Even not sure if I am gonna go for a physical property or something like REIT.
+I started reading [Dune by Frank Herbert.](https://www.goodreads.com/book/show/43419431-dune) It's been on my watchlist for a while and movie launch was a good nudge to finally read it. I started reading it in English but after ~10% switched to the Russian version because it was quite hard. So many little details and descriptions and names. I finished about 60% so went to see a movie and it was awesome. The cinematography is through the roof.
 
-## **🎮 Reading and Entertainment**
+I am still playing [Persona 5 Royal](https://store.playstation.com/en-us/product/UP0177-CUSA17416_00-PERSONA5R0000000/) making it already 86 hours in total which means I spent about 40 hours in November.
 
-In October I finished reading [“Never Split the Difference: Negotiating As If Your Life Depended On It” by Chris Voss](https://www.goodreads.com/book/show/26156469-never-split-the-difference). The book is quite good but if you don't revise knowledge from it, it will fade away. I am trying to do this via Kindle highlights and email newsletter but not sure if it helps. Anyway, I've got some good tips from the book and I hope I'll apply them in life.
+But I also bought a Nintendo Switch! 🥳 I wanted to buy it for a long time and finally made the decision and so far I am happy with the console. It is convenient and has so many great games.
 
-I am still playing [Persona 5 Royal](https://store.playstation.com/en-us/product/UP0177-CUSA17416_00-PERSONA5R0000000/) making it about ~40 hours in total which means I spend about 20 hours in October.
+The only downside is the cost of the games. PS4 and PC games became so cheap during the last few years especially if you buy on sales, but Switch prices are huge! But I am happy with the purchase anyway. My first game will be "Ori and the blind forest".
 
-Since we're both gamers with my wife we have to share PS4 and in the latter half of the month, she was playing. I tried to find good games on M1 Mac but the support isn't that good.
+I'm trying to finish all my games I have on PS4. There is a big chance I'll drop PS4 back to Russia next year and continue to travel with Switch only.
 
-I ended up starting FFXIV which is technically a MMORPG. I am playing it just because Final Fantasy is my favourite game series and it has a great story (yeah MMORPG with a story, I know!). So far I like it and the game is quite easy-going so it's great relaxation after a busy day.
-
-That's all about October! I'll be back with November Retrospective and follow up with the 2021 review! 🍾🥂
+That’s all for November! I’ll be back with my 2021 review! 🍾🥂 This year was fascinating.
