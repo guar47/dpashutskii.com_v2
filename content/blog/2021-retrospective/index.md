@@ -31,7 +31,7 @@ The best representation of my year is in GitHub commits:
 
 This year I started with annual resolutions on Twitter. Let’s see how I progressed on them:
 
-<blockquote className="twitter-tweet"><p lang="en" dir="ltr">My goals for 2021 🎉 I want to be focused this year.<br><br>📺 Content creation: YouTube and blogging, want to finally dig into that<br>🇨🇦 Immigration to Canada: start the process and move to Vancouver<br>🚢 Ship at least 5 more side projects and start getting income. Or find the freelance</p>&mdash; Dmitrii Pashutskii 🇬🇪 (@guar47) <a href="https://twitter.com/guar47/status/1349251840899129345?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My goals for 2021 🎉 I want to be focused this year.<br><br>📺 Content creation: YouTube and blogging, want to finally dig into that<br>🇨🇦 Immigration to Canada: start the process and move to Vancouver<br>🚢 Ship at least 5 more side projects and start getting income. Or find the freelance</p>&mdash; Dmitrii Pashutskii 🇬🇪 (@guar47) <a href="https://twitter.com/guar47/status/1349251840899129345?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote>
 
 ### Content creation ✅
 
@@ -218,4 +218,4 @@ That’s it for 2021!
 
 I’m planning so many interesting things for 2022 and I’m very excited to start ✨ This year I decided to post a simple annual resolution to channel my focus. Here is the resolution tweet:
 
-<blockquote className="twitter-tweet"><p lang="en" dir="ltr">I was a big fan of new year&#39;s resolutions but I&#39;m at an unpredictable and experimental stage so I only set one goal for the 2022: <br><br>💰Make some money on my projects 💰<br><br>My soft goal is $1k per month and perfect goal is $2k. Any income counts except my job/freelance or investments</p>&mdash; Dmitrii Pashutskii 🇬🇪 (@guar47) <a href="https://twitter.com/guar47/status/1478030865632477186?ref_src=twsrc%5Etfw">January 3, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was a big fan of new year&#39;s resolutions but I&#39;m at an unpredictable and experimental stage so I only set one goal for the 2022: <br><br>💰Make some money on my projects 💰<br><br>My soft goal is $1k per month and perfect goal is $2k. Any income counts except my job/freelance or investments</p>&mdash; Dmitrii Pashutskii 🇬🇪 (@guar47) <a href="https://twitter.com/guar47/status/1478030865632477186?ref_src=twsrc%5Etfw">January 3, 2022</a></blockquote>
