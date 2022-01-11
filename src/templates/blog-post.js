@@ -4,6 +4,8 @@ import { graphql } from "gatsby"
 import Social from "../components/social"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import SignUpForm from "../components/sign-up-form"
+
 import { rhythm, scale } from "../utils/typography"
 
 class BlogPostTemplate extends React.Component {
@@ -39,8 +41,9 @@ class BlogPostTemplate extends React.Component {
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr className="h-px" />
-          <footer className="mt-5 mb-10 flex justify-center">
+          <footer className="mt-5 mb-10 flex flex-col justify-center">
             <Social />
+            <SignUpForm />
           </footer>
         </article>
       </Layout>

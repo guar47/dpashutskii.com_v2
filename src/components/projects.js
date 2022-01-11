@@ -9,6 +9,31 @@ const Projects = () => {
         <h3 className="mt-2 mb-0">
           <a
             className="font-semibold shadow-none text-black hover:text-blue-800"
+            href="https://tacodigest.com.com"
+            target="_blank"
+            rel="noreferrer"
+          >
+            taco digest.
+          </a>
+        </h3>
+        <div className="text-black">
+          <span className="">
+            personal email digest. you can create a customizable newsletter from different sources across the web.
+          </span>
+        </div>
+        <div className="text-black">
+          <span className="font-semibold">launched:</span> 07.12.2021
+        </div>
+        <div className="text-black">
+          <span className="font-semibold mr-2">stack:</span>
+          ruby, rails, postgresql, javascript
+        </div>
+      </article>
+
+      <article className="mb-7 font-headers border-b border-black pb-2">
+        <h3 className="mt-2 mb-0">
+          <a
+            className="font-semibold shadow-none text-black hover:text-blue-800"
             href="https://nextplaceto.com"
             target="_blank"
             rel="noreferrer"

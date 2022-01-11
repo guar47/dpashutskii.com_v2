@@ -17,7 +17,7 @@ const Bio = props => {
   `)
 
   return (
-    <div className="mb-7 font-headers font-medium">
+    <div className="mb-0 font-headers font-medium">
       <div className="flex items-center mb-4">
         <Image
           fixed={data.avatar.childImageSharp.fixed}
@@ -33,10 +33,10 @@ const Bio = props => {
         </div>
       </div>
       <p className="mb-0">
-        i am a software enigeneer trying to be an indie hacker and youtuber.
+        i am a software enigeneer, indie hacker and youtuber.
       </p>
       <p className="m-0">
-        i write code, travel the world, make videos, and hack indie projects.
+        i write code, travel the world, make videos, and create products.
       </p>
     </div>
   )

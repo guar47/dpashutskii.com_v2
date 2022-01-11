@@ -2,6 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
+import SignUpForm from "../components/sign-up-form"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -19,6 +20,7 @@ class BlogIndex extends React.Component {
       >
         <SEO title="Main page" />
         <Bio lang={pageContext.langKey} />
+        <SignUpForm />
         <h2 className="text-2xl mt-10 mb-3 font-black">latest articles:</h2>
         {latestPosts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
@@ -38,6 +40,12 @@ class BlogIndex extends React.Component {
             </article>
           )
         })}
+        <Link
+          className="mt-5 font-semibold  shadow-none font-headers text-black hover:text-blue-800"
+          to={"blog"}
+        >
+          &rarr; Read all articles
+        </Link>
       </Layout>
     )
   }
@@ -53,6 +61,7 @@ export const pageQuery = graphql`
       }
     }
     latestPosts: allMarkdownRemark(
+      limit: 5
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { fields: { langKey: { eq: "en" } } }
     ) {
