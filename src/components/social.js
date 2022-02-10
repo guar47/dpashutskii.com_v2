@@ -1,6 +1,7 @@
 import React from "react"
 import TwitterIcon from "../../content/assets/icons/twitter-icon.svg"
 import YouTubeIcon from "../../content/assets/icons/youtube-icon.svg"
+import InstagramIcon from "../../content/assets/icons/instagram-icon.svg"
 
 const Social = props => {
   return (
@@ -27,6 +28,19 @@ const Social = props => {
           className="no-underline shadow-none"
         >
           <YouTubeIcon
+            className="text-gray-800 fill-current hover:text-blue-800"
+            width={30}
+            height={30}
+          />
+        </a>
+
+        <a
+          href={`https://instagram.com/d.pashutskii`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="no-underline shadow-none"
+        >
+          <InstagramIcon
             className="text-gray-800 fill-current hover:text-blue-800"
             width={30}
             height={30}
