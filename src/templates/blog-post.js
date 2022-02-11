@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 
 import Social from "../components/social"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import SignUpForm from "../components/sign-up-form"
 
 import { rhythm, scale } from "../utils/typography"
@@ -19,7 +19,7 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle} lang={langKey}>
-        <SEO
+        <Seo
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
           image={image}

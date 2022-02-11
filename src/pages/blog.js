@@ -2,7 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 class Blog extends React.Component {
   render() {
@@ -16,7 +16,7 @@ class Blog extends React.Component {
         title={siteTitle}
         lang={pageContext.langKey}
       >
-        <SEO title="Side projects list" />
+        <Seo title="Side projects list" />
         <h2 className="text-2xl mb-7 mt-0 font-black">blog posts:</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug

@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import ProjectsComponent from "../components/projects"
 
 class Projects extends React.Component {
@@ -16,7 +16,7 @@ class Projects extends React.Component {
         title={siteTitle}
         lang={pageContext.langKey}
       >
-        <SEO title="Side projects list" />
+        <Seo title="Side projects list" />
         <ProjectsComponent />
       </Layout>
     )

@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import BioRu from "../components/bio.ru"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import { rhythm } from "../utils/typography"
 
 class BlogIndex extends React.Component {
@@ -18,7 +18,7 @@ class BlogIndex extends React.Component {
         title={siteTitle}
         lang={pageContext.langKey}
       >
-        <SEO
+        <Seo
           title="Главная"
           lang="ru"
           description="Личный блог Дмитрия Пашутского - разработчика, пуешественника и инди хакера"

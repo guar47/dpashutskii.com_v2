@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import SignUpForm from "../components/sign-up-form"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 class BlogIndex extends React.Component {
   render() {
@@ -18,7 +18,7 @@ class BlogIndex extends React.Component {
         title={siteTitle}
         lang={pageContext.langKey}
       >
-        <SEO title="Main page" />
+        <Seo title="Main page" />
         <Bio lang={pageContext.langKey} />
         <SignUpForm />
         <h2 className="text-2xl mt-10 mb-3 font-black">latest articles:</h2>
