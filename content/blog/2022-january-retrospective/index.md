@@ -43,7 +43,7 @@ As usual, the Russian YouTube channel is thriving and when I’m writing this po
 
 In January we didn’t do much for Taco. Mostly focusing on fixing all the bugs after launch and trying to spread the word about the project.
 
-In December, we also sold two LifeTimeDeals for Taco and we removed this type of payment from the project. Now we’ll only focus on subscriptions.
+In January, we also sold two LifeTimeDeals for Taco and we removed this type of payment from the project. Now we’ll only focus on subscriptions.
 
 ## **✍️ Writing**
 
