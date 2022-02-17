@@ -57,12 +57,6 @@ class Layout extends React.Component {
             >
               projects.
             </Link>
-            <a
-              href={`${__PATH_PREFIX__}/ru/`}
-              className="flex items-center justify-center no-underline shadow-none border-gray-400 border-2 hover:border-blue-800 rounded-full"
-            >
-              <RussiaFlagIcon width={20} height={20} />
-            </a>
           </div>
         </div>
       )
