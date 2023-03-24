@@ -20,7 +20,7 @@ class BlogIndex extends React.Component {
       >
         <Seo title="Main page" />
         <Bio lang={pageContext.langKey} />
-        <SignUpForm />
+        {/* <SignUpForm /> */}
         <h2 className="text-2xl mt-10 mb-3 font-black">latest articles:</h2>
         {latestPosts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
